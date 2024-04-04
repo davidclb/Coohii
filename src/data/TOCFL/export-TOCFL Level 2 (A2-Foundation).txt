@@ -1,0 +1,488 @@
+出生	出生	chu1sheng1	be born
+国	國	guo2	country; state; nation
+不同	不同	bu4tong2	different; distinct; not the same
+地址	地址	di4zhi3	address
+市	市	shi4	market; city
+传真	傳真	chuan2zhen1	fax; facsimile
+留言	留言	liu2yan2	to leave a message; to comment
+日期	日期	ri4qi1	date (time period)
+时间	時間	shi2jian1	time; period
+钟头	鐘頭	zhong1tou2	hour (in spoken Chinese)
+晚	晚	wan3	evening; night; late
+夜	夜	ye4	night; evening; darkness
+礼拜	禮拜	li3bai4	week; religious service; worship
+礼拜天	禮拜天	li3bai4tian1	Sunday
+前天	前天	qian2tian1	the day before yesterday
+后天	後天	hou4tian1	the day after tomorrow
+从前	從前	cong2qian2	previously; formerly; in the past; once upon a time
+夏	夏	xia4	summer
+冬	冬	dong1	winter
+秋	秋	qiu1	autumn; fall; harvest time
+春	春	chun1	spring (season); joyful
+一会儿	一會兒	yi2hui4r5	a while; a moment
+不久	不久	bu4jiu3	not long (after); soon
+刚刚	剛剛	gang1gang1	just recently; just a moment ago; just now
+刚才	剛才	gang1cai2	just now; a moment ago
+当然	當然	dang1ran2	of course; naturally
+自己	自己	zi4ji3	oneself; self
+别人	別人	bie2ren2	other people; others
+年纪	年紀	nian2ji4	age
+男人	男人	nan2ren2	man; male; menfolk; husband; "hubby"
+女人	女人	nv3ren2	woman; women
+大人	大人	da4ren5	adult
+老人	老人	lao3ren2	old people; the aged; one's aged parents or grandparents
+习惯	習慣	xi2guan4	habit; usual practice; it's my habit to...; make it a habit...
+家庭	家庭	jia1ting2	family; household
+父亲	父親	fu4qin5	father (formal)
+母亲	母親	mu3qin5	mother (formal)
+父母	父母	fu4mu3	father and mother; parents
+爷爷	爺爺	ye2ye5	father's father; paternal grandfather
+奶奶	奶奶	nai3nai5	grandma; paternal grandmother
+关系	關係	guan1xi5	relation; connection; relationship
+教堂	教堂	jiao4tang2	church; chapel; cathedral
+好	好	hao3, hao4	good; well; nice; very; quite; be fond of
+真	真	zhen1	real; true; genuine
+最	最	zui4	the most; -est; (indicator for superlative)
+更	更	geng4, geng1	more; even more; change; watch (e.g. of a sentry or guard)
+愉快	愉快	yu2kuai4	happy; joyful
+开心	開心	kai1xin1	feel happy; have fun; make fun of somebody
+著急	著急	zhao2ji2	to worry; feel anxious (for simplified, add 着~)
+担心	擔心	dan1xin1	worry; feel anxious
+生气	生氣	sheng1qi4	angry; mad
+怕	怕	pa4	be afraid; fear
+哭	哭	ku1	cry; weep
+难过	難過	nan2guo4	have a hard time; feel sad
+伤心	傷心	shang1xin1	sad; grieve; brokenhearted
+美	美	mei3	beautiful; America
+美丽	美麗	mei3li4	beautiful
+聪明	聰明	cong1ming5	intelligent; clever; bright; smart
+认真	認真	ren4zhen1	serious; earnest; take seriously, conscientious
+勇敢	勇敢	yong3gan3	brave; courageous
+礼貌	禮貌	li3mao4	courtesy; politeness; manners
+害羞	害羞	hai4xiu1	blush; shy; bashful
+应该	應該	ying1gai1	should; ought to; must
+相信	相信	xiang1xin4	believe (sb.); be convinced of
+经验	經驗	jing1yan4	experience
+关心	關心	guan1xin1	be concerned about; care for; be interested in
+辛苦	辛苦	xin1ku3	hard; exhausting; toilsome; laborious
+愿意	願意	yuan4yi4	willing; want to; ready
+心情	心情	xin1qing2	mood; state of mind
+幸福	幸福	xing4fu2	happy; blessed; fortunate
+可怜	可憐	ke3lian2	pitiful; poor; pathetic
+差	差	cha4, cha1, chai1	poor; to lack; difference; to dispatch
+职业	職業	zhi2ye4	profession; occupation
+教师	教師	jiao4shi1	teacher; instructor
+经理	經理	jing1li3	manager; director
+记者	記者	ji4zhe3	reporter; journalist
+服务员	服務員	fu2wu4yuan2	waiter/waitress; server; attendant
+服务生	服務生	fu2wu4sheng1	server (personnel)
+顾客	顧客	gu4ke4	customer; client
+教书	教書	jiao1shu1	to teach (school)
+开会	開會	kai1 hui4	have a meeting; be at a meeting
+下班	下班	xia4 ban1	get off work; finish work
+危险	危險	wei1xian3	danger; dangerous; perilous
+安全	安全	an1quan2	safe; safety; secure; security
+成功	成功	cheng2gong1	success; succeed; successful
+报告	報告	bao4gao4	to report; make known; inform; speech; lecture
+打算	打算	da3suan4	to plan; intend
+机会	機會	ji1hui4	opportunity; chance; occasion
+当	當	dang1, dang4	should; act as; manage; match, appropriate; assume; pawn
+如果	如果	ru2guo3	if; in the event that
+计画	計畫	ji4hua4	plan; project; program
+努力	努力	nu3li4	work hard; strive
+管理	管理	guan3li3	supervise; manage
+学院	學院	xue2yuan4	college; institute; academy; school
+小学生	小學生	xiao3xue2sheng1	primary school student
+大学生	大學生	da4xue2sheng1	college student; university student
+同学	同學	tong2xue2	fellow student; schoolmate
+校长	校長	xiao4zhang3	(academic) president; school principal; headmaster
+放假	放假	fang4 jia4	have a holiday or vacation
+毕业	畢業	bi4ye4	graduation; graduate
+开学	開學	kai1xue2	start school; begin a term
+成绩	成績	cheng2ji4	achievement; results (of work or study); grade (on schoolwork)
+学期	學期	xue2qi1	semester; school term
+学费	學費	xue2fei4	tuition
+暑假	暑假	shu3jia4	summer vacation
+寒假	寒假	han2jia4	winter vacation
+服务	服務	fu2wu4	serve; service
+宿舍	宿舍	su4she4	dormitory; living quarters; hostel
+操场	操場	cao1chang3	playground; sports field
+校园	校園	xiao4yuan2	campus; schoolyard
+中文	中文	Zhong1wen2	Chinese (language)
+文化	文化	wen2hua4	culture, civilization; education; literacy
+语法	語法	yu3fa3	grammar
+汉语	漢語	Han4yu3	Chinese (language)
+书法	書法	shu1fa3	calligraphy; penmanship
+班	班	ban1	team; class; squad; shift
+书桌	書桌	shu1zhuo1	(writing) desk
+课	課	ke4	class; subject; lesson; course
+字典	字典	zi4dian3	character dictionary
+汉字	漢字	Han4zi4	Chinese character
+铅笔	鉛筆	qian1bi3	pencil
+尺	尺	chi3	one-third of a meter; ruler; musical note on Chinese scale; foot (in length and height)
+毛笔	毛筆	mao2bi3	writing brush
+教	教	jiao1, jiao4	to teach; instruct; religion; teaching
+讲	講	jiang3	speak; lecture; explain; a speech
+讲话	講話	jiang3hua4	speak; to talk; speech; lecture
+告诉	告訴	gao4su5	to tell; inform; let sb. know
+念	念	nian4	read aloud; to study; to miss or think of somebody
+练习	練習	lian4xi2	practice; exercise
+讨论	討論	tao3lun4	discuss; talk over
+认为	認為	ren4wei2	believe; think (that); consider; to feel
+解释	解釋	jie3shi4	explain; interpret; expound
+同意	同意	tong2yi4	agree; consent; approve
+了解	了解	liao3jie3	comprehend; understand; know; find out (also 瞭~)
+清楚	清楚	qing1chu5	clear; distinct; be clear about
+无聊	無聊	wu2liao2	nonsense; bored; boring; silly
+决定	決定	jue2ding4	decide; decision
+遍	遍	bian4	all over; everywhere; once through; a time (mw for actions)
+交	交	jiao1	submit; deliver; turn over; intersect; to pay (money); friendship
+借	借	jie4	lend; borrow; excuse
+算	算	suan4	calculate; compute; regard as; to figure; to count (as something)
+对	對	dui4	correct; a pair; to face; be opposite; to; towards
+错	錯	cuo4	mistake; error; miss an opportunity
+办法	辦法	ban4fa3	way (of doing sth.); means; measure; method
+方法	方法	fang1fa3	method; way; means
+有用	有用	you3yong4	useful
+进步	進步	jin4bu4	to make progress; to advance
+忘	忘	wang4	forget; overlook; to neglect
+记	記	ji4	to remember; to record; to note
+公寓	公寓	gong1yu4	apartment building; apartment
+大楼	大樓	da4lou2	tall building
+卧室	臥室	wo4shi4	bedroom
+花园	花園	hua1yuan2	garden
+门口	門口	men2kou3	doorway; entrance; gate
+浴室	浴室	yu4shi4	bathroom; washroom
+楼梯	樓梯	lou2ti1	stairs
+墙	牆	qiang2	wall
+洗衣机	洗衣機	xi3yi1ji1	washing machine; washer
+冰箱	冰箱	bing1xiang1	refrigerator
+灯	燈	deng1	lamp; light
+打开	打開	da3kai1	to open; turn on
+盒子	盒子	he2zi5	box
+邻居	鄰居	lin2ju1	neighbor
+热闹	熱鬧	re4nao5	bustling; lively; busy
+吵	吵	chao3	to quarrel; make a noise; noisy
+满意	滿意	man3yi4	satisfied; pleased
+干净	乾淨	gan1jing4	clean; neat and tidy
+房租	房租	fang2zu1	rent money (for a house or apartment)
+租	租	zu1	to rent;  to lease
+开水	開水	kai1shui3	boiled water; boil water; drinking water (already sanitized/boiled)
+乡下	鄉下	xiang1xia5	countryside; rural; village
+森林	森林	sen1lin2	forest
+地	地	di4, de5	earth; ground;; - ly (structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct)
+草	草	cao3	grass; straw; draft (of a document)
+枝	枝	zhi1	branch; twig; (mw for sticks, rods, pencils)
+只	隻	zhi1	(mw for birds and certain animals)
+动物	動物	dong4wu4	animal
+牛	牛	niu2	ox; cow; bull (Kangxi radical 93); exceptional (slang)
+虎	虎	hu3	tiger
+羊	羊	yang2	sheep (Kangxi radical 123)
+猪	豬	zhu1	pig; swine
+月亮	月亮	yue4liang5	the moon
+星星	星星	xing1xing5	star; (also -xīng: speck)
+云	雲	yun2	cloud; Yunnan province
+地球	地球	di4qiu2	the Earth (planet)
+世界	世界	shi4jie4	world
+环境	環境	huan2jing4	environment; surroundings
+火	火	huo3	fire (Kangxi radical 86); urgent; hot (popular); fiery
+晴天	晴天	qing2tian1	fine, sunny day
+暖和	暖和	nuan3huo5	warm; nice and warm
+凉快	涼快	liang2kuai5	pleasantly cool (temperature)
+温暖	溫暖	wen1nuan3	warm; warmth; kindness
+度	度	du4, duo2	capacity; degree; degree (mw for temperature, angles); measure; scale; to spend (time); to estimate; surmise
+温度	溫度	wen1du4	temperature
+雨	雨	yu3	rain (Kangxi radical 173)
+雪	雪	xue3	snow
+空气	空氣	kong1qi4	air
+间	間	jian1, jian4	(mw for rooms); space; time; among; a gap; to separate
+睡	睡	shui4	to sleep
+发生	發生	fa1sheng1	happen; occur; take place
+发现	發現	fa1xian4	discover; to find
+照顾	照顧	zhao4gu5	take care of; look after; give consideration; take care
+打扫	打掃	da3sao3	to clean; to sweep
+餐	餐	can1	to eat; food; meal; (measure word for meals)
+起来	起來	qi3lai2	(beginning or continuing an action); to rise; get up (from bed)
+搬	搬	ban1	move; take away; remove; transport
+挂	掛	gua4	hang; put up; suspend
+有空	有空	you3 kong4	have free time; have time (to do sth.)
+过年	過年	guo4 nian2	celebrate the Chinese New Year
+结束	結束	jie2shu4	end; finish; conclude
+完	完	wan2	finish; be over; complete
+散步	散步	san4 bu4	go for a walk
+爬	爬	pa2	to crawl; to climb
+跳	跳	tiao4	jump; hop; skip
+座位	座位	zuo4wei4	a seat; a place
+博物馆	博物館	bo2wu4guan3	museum
+节目	節目	jie2mu4	program; item (on a program)
+新闻	新聞	xin1wen2	news
+政治	政治	zheng4zhi4	politics
+体育	體育	ti3yu4	physical training; physical education (P.E.); sports
+网站	網站	wang3zhan4	website
+还	還	hai2, huan2	still; yet; in addition; even.; repay; to return
+经常	經常	jing1chang2	day-to-day; constantly; often
+平常	平常	ping2chang2	ordinary; common; usually
+总是	總是	zong3shi4	always; eventually
+已经	已經	yi3jing1	already
+各	各	ge4	each; every
+杂志	雜誌	za2zhi4	magazine
+文章	文章	wen2zhang1	article; essay
+故事	故事	gu4shi5	story; tale
+小说	小說	xiao3shuo1	novel; fiction
+美术	美術	mei3shu4	the fine arts; art
+艺术	藝術	yi4shu4	art
+兴趣	興趣	xing4qu4	interest (in something or somebody)
+收	收	shou1	receive; accept; collect; to harvest
+谈	談	tan2	to talk; to chat; discuss
+聊天	聊天	liao2tian1	to chat
+唱	唱	chang4	sing; call loudly; to chant
+歌	歌	ge1	song
+早	早	zao3	early; (early) morning; good morning!
+迟到	遲到	chi2dao4	be late; arrive late
+后来	後來	hou4lai2	afterwards; after; later
+变	變	bian4	to change; become different
+跳舞	跳舞	tiao4 wu3	to dance
+乐器	樂器	yue4qi4	musical instrument
+吉他	吉他	ji2ta1	guitar
+钢琴	鋼琴	gang1qin2	piano
+可怕	可怕	ke3pa4	terrible; awful; frightful; scary
+活动	活動	huo2dong4	activity; exercise; move about
+就	就	jiu4	then; at once; just; only; with regard to; exactly; precisely
+消息	消息	xiao1xi5	news; information; message
+才	才	cai2	ability; talent; just now; not until
+又	又	you4	(once) again; also; both (Kangxi radical 29)
+客人	客人	ke4ren2	guest; customer
+不好意思	不好意思	bu4hao3yi4si5	embarrassed; ill at ease; sorry
+怎么了	怎麼了	zen3me5le5	What's going on? What's wrong?
+怎么办	怎麼辦	zen3me5ban4	what's to be done?
+客气	客氣	ke4qi5	polite; courteous; formal; modest
+舞会	舞會	wu3hui4	dance; ball; party
+最近	最近	zui4jin4	recently; lately; these days
+请客	請客	qing3 ke4	to treat; invite to dinner; entertain guests
+庆祝	慶祝	qing4zhu4	celebrate
+听说	聽說	ting1shuo1	to hear of
+感谢	感謝	gan3xie4	thank; be grateful
+见面	見面	jian4mian4	meet/see somebody (face to face); meeting
+约	約	yue1, yao1	make an appointment; agreement; arrange; economize; approximately; to weigh
+事	事	shi4	matter; affair; thing; event; trouble; accident; job; work; responsibility; involvement
+事情	事情	shi4qing5	matter; affair; thing; business
+明信片	明信片	ming2xin4pian4	postcard
+卡片	卡片	ka3pian4	card
+帮	幫	bang1	to help; assist; group; gang
+弄	弄	nong4, long4	do; manage; to handle; make; lane; alley
+检查	檢查	jian3cha2	to check; examine; inspect
+通知	通知	tong1zhi1	notify; to inform; notice
+叫	叫	jiao4	to call; to cry; to shout; to name; be called; to greet; to hire; to order
+麻烦	麻煩	ma2fan5	trouble (someone); troubling; bothersome
+偷	偷	tou1	steal; pilfer
+钱包	錢包	qian2bao1	wallet; purse
+拉	拉	la1, la2	to pull; to play (string instruments); to drag; to slash; to chat
+小偷	小偷	xiao3tou1	thief; pickpocket
+满	滿	man3	full; orig. plentiful; abundant; 
+丢	丟	diu1	lose (something); throw; put aside
+啊	啊	a1, a2, a3, a4, a5	ah; (particle showing elation, doubt, puzzled surprise, or approval)
+汽车	汽車	qi4che1	car; automobile; bus; vehicle
+辆	輛	liang4	(mw for vehicles)
+船	船	chuan2	a boat; vessel; ship
+停车场	停車場	ting2che1chang3	parking lot; parking garage
+搭	搭	da1	to take; travel by (car, plane, etc.); to erect; to build; to hang; to join
+起飞	起飛	qi3fei1	take off (in an airplane); liftoff
+出	出	chu1	go out; occur
+出来	出來	chu1lai2	come out; emerge
+进	進	jin4	enter; come in
+进去	進去	jin4qu5	go in; enter
+回去	回去	hui2 qu4	return; go back
+路口	路口	lu4kou3	intersection (of roads); crossing
+红绿灯	紅綠燈	hong2lv4deng1	traffic lights; traffic signal
+桥	橋	qiao2	bridge
+左	左	zuo3	the left side; left
+右	右	you4	the right side; to the right
+里	裡	li3	inside; internal
+下	下	xia4	under; below; to descend; to fall; down; next; the second (of two parts)
+上	上	shang4	above; up; on top; get on; go up; to attend
+这边	這邊	zhe4bian1	this side; here
+这些	這些	zhe4xie1	these
+那些	那些	na4xie1	those
+那边	那邊	na4bian5	that side; that place; over there
+旅游	旅遊	lv3you2	trip; journey; tour
+动物园	動物園	dong4wu4yuan2	zoo
+出发	出發	chu1fa1	start out; set off
+离开	離開	li2kai1	leave; depart
+向	向	xiang4	direction; towards; to turn; to face
+南	南	nan2	South
+南部	南部	nan2bu4	southern part
+南边	南邊	nan2bian5	South; South side; location to the South
+西	西	xi1	West (Kangxi radical 146)
+西部	西部	xi1bu4	west; western part
+西边	西邊	xi1bian5	west; west side; west of
+北	北	bei3	north
+北部	北部	bei3bu4	northern part; Tonkin (region in Vietnam)
+北边	北邊	bei3bian5	north; northern side; north of
+东	東	dong1	East; master; owner
+东部	東部	dong1bu4	the east; the eastern part
+东边	東邊	dong1bian5	east; eastern side; to the east of
+经过	經過	jing1guo4	to pass; go through; as a result of
+转	轉	zhuan3, zhuan4	to turn; to change; pass on; transfer; revolve; rotate
+掉	掉	diao4	to drop; to fall
+一直	一直	yi4zhi2	always; all along; straight (in a straight line); from the beginning
+过去	過去	guo4qu4	in the past; formerly; go over
+最后	最後	zui4hou4	final; last; finally; at last
+动	動	dong4	to move; to use; to act
+躺	躺	tang3	recline; lie down (on back or side)
+起	起	qi3	to rise; to raise; get up
+停	停	ting2	to stop; to halt; to park (a car)
+中心	中心	zhong1xin1	centre; heart; core
+外国	外國	wai4guo2	foreign country
+护照	護照	hu4zhao4	passport
+行李	行李	xing2li5	luggage; baggage
+出口	出口	chu1kou3	to speak; to utter; ; exit; way out; ; to export; (of ships) to leave port;; exhaust; outfall; outlet; egress; discharge point; vent
+油	油	you2	oil; oily; sly
+钥匙	鑰匙	yao4shi5	key
+袋子	袋子	dai4zi5	bag
+公里	公里	gong1li3	kilometer
+方向	方向	fang1xiang4	direction; orientation
+出现	出現	chu1xian4	appear; arise; emerge
+交通	交通	jiao1tong1	traffic; transportation; communication
+脸	臉	lian3	face
+腿	腿	tui3	leg
+脚	腳	jiao3	foot / base (of animal or object)
+心	心	xin1	heart; mind (Kangxi radical 61)
+鼻子	鼻子	bi2zi5	nose
+背	背	bei4, bei1	back; to carry on one's back; to have one's back to; to leave; to recite
+嘴巴	嘴巴	zui3ba5	mouth
+脖子	脖子	bo2zi5	neck
+健康	健康	jian4kang1	health; healthy
+感觉	感覺	gan3jue2	to feel; become aware of; feeling
+救护车	救護車	jiu4hu4che1	ambulance
+咳嗽	咳嗽	ke2sou5	to cough
+发烧	發燒	fa1shao1	have a fever
+疼	疼	teng2	ache; sore; (it) hurts; love fondly
+保险	保險	bao3xian3	insurance; insure; safe
+病	病	bing4	ailment; sickness; illness
+看病	看病	kan4 bing4	visit a doctor; see a patient
+病人	病人	bing4ren2	a patient; sick person
+挂号	掛號	gua4hao4	register for a turn with a service; to “take a number”; send by registered mail
+牙刷	牙刷	ya2shua1	toothbrush
+剪	剪	jian3	cut (with scissors); scissors
+药房	藥房	yao4fang2	pharmacy
+恢复	恢復	hui1fu4	reinstate; resume; recover (from illness); rehabilitate
+救命	救命	jiu4ming4	to save sb.'s life; ; (interjection) Help!; Save me!
+影响	影響	ying3xiang3	influence; affect; effect
+饱	飽	bao3	eat until full; satisfied
+吃饱	吃飽	chi1bao3	to eat enough; to eat one's fill; to eat until full
+简单	簡單	jian3dan1	simple; uncomplicated
+书店	書店	shu1dian4	bookstore
+超市	超市	chao1shi4	Grocery store; supermarket
+戴	戴	dai4	put on; to wear (accessories); to respect
+试	試	shi4	to try; to test; examination
+轻	輕	qing1	light; easy; gentle; soft
+重	重	zhong4, chong2	heavy; intense; repeat; duplicate
+流行	流行	liu2xing2	to spread; prevalent; be popular
+蓝色	藍色	lan2se4	blue
+绿色	綠色	lv4se4	green
+红色	紅色	hong2se4	red (color)
+黑色	黑色	hei1se4	black
+手表	手錶	shou3biao3	wristwatch
+付	付	fu4	to pay; hand over
+衬衫	襯衫	chen4shan1	shirt; blouse
+毛衣	毛衣	mao2yi1	woolen sweater
+大衣	大衣	da4yi1	overcoat; cloak
+牛仔裤	牛仔褲	niu2zai3ku4	jeans; cowboy pants
+雨衣	雨衣	yu3yi1	raincoat
+内衣	內衣	nei4yi1	undergarment; underwear
+帽子	帽子	mao4zi5	hat; cap
+皮包	皮包	pi2bao1	leather handbag; briefcase; portfolio
+外套	外套	wai4tao4	coat; overcoat
+干	乾	gan1, qian2	dry; clean; "sky" or "male" in Eight Trigrams; surname Qian
+旧	舊	jiu4	old; past; used
+价格	價格	jia4ge2	price
+价钱	價錢	jia4qian2	price
+排队	排隊	pai2 dui4	queue; stand in line
+信用卡	信用卡	xin4yong4ka3	credit card
+毛	毛	mao2	hair; fur; feather; Chinese unit of money equal to 1/10 yuan (Kangxi radical 82)
+比较	比較	bi3jiao4	to compare; comparatively; relatively; contrast
+样子	樣子	yang4zi5	manner; air; style; appearance; looks
+特别	特別	te4bie2	special; especially; particular
+一般	一般	yi4ban1	general; ordinary; common; same
+圆	圓	yuan2	round; circular; formal unit of Chinese currency
+光	光	guang1	light; ray; bright; only; merely; used up
+看见	看見	kan4jian4	see; catch sight of
+其他	其他	qi2ta1	other; else
+声音	聲音	sheng1yin1	sound; voice
+大声	大聲	da4 sheng1	loud
+好像	好像	hao3xiang4	seem like
+像	像	xiang4	be like; resemble; appearance; image
+奇怪	奇怪	qi2guai4	strange; odd
+死	死	si3	to die; dead; fixed; impassible; extremely
+脏	髒	zang1	filthy
+差不多	差不多	cha4bu5duo1	almost; about the same
+一共	一共	yi2gong4	altogether; in total
+需要	需要	xu1yao4	need; require
+牛排	牛排	niu2pai2	beef steak
+米	米	mi3	(husked) rice; meter (Kangxi radical 119)
+三明治	三明治	san1ming2zhi4	sandwich
+西瓜	西瓜	xi1gua1	watermelon
+啤酒	啤酒	pi2jiu3	beer
+红茶	紅茶	hong2cha2	red (black) tea
+点菜	點菜	dian3cai4	order food (in a restaurant)
+包	包	bao1	to cover; to wrap; to hold; include; bag; (mw for containers, packages, etc.)
+酸	酸	suan1	sour; sore; ache
+苦	苦	ku3	bitter; hardship; suffering; pain; cause sb. suffering; suffer from; painstakingly
+咸	鹹	xian2	salty; salted
+辣	辣	la4	hot (spicy)
+点心	點心	dian3xin5	dim sum; light refreshments; snacks; dessert
+冰淇淋	冰淇淋	bing1qi2lin2	ice cream
+饼干	餅乾	bing3gan1	biscuit; cracker; cookie
+汉堡	漢堡	han4bao3	hamburger; Hamburg
+青菜	青菜	qing1cai4	green vegetables; vegetable dishes
+盐	鹽	yan2	salt; table salt
+糖	糖	tang2	sugar; candy; sweets
+煮	煮	zhu3	to boil; to cook
+碗	碗	wan3	a bowl; a cup
+盘	盤	pan2	MW for a plate of food
+条	條	tiao2	strip; item; (mw for long thin objects)
+位	位	wei4	position; location; (polite mw for people)
+种	種	zhong3, zhong4	type; breed; race; seed; to plant
+口	口	kou3	mouth (Kangxi radical 30); (mw for people, mouthfuls)
+够	夠	gou4	enough; to reach
+任何	任何	ren4he2	any; whatever; whichever
+味道	味道	wei4dao5	flavor; taste; interest; odour; smell
+香	香	xiang1	fragrant; savory (Kangxi radical 186)
+全部	全部	quan2bu4	whole; entire; complete
+所有	所有	suo3you3	all; to have; to possess
+许多	許多	xu3duo1	many; a lot; much
+新鲜	新鮮	xin1xian1	fresh (experience, food, etc.); new; novel
+烤	烤	kao3	to roast; to bake; to barbecue
+尝	嚐	chang2	to taste; flavor; (past tense marker)
+装	裝	zhuang1	to load; dress up; pretend; clothing; to install
+刀子	刀子	dao1zi5	knife
+叉子	叉子	cha1zi5	fork
+汤匙	湯匙	tang1chi2	(soup) spoon; tablespoon
+筷子	筷子	kuai4zi5	chopsticks
+没有	沒有	mei2you3	not have; there is not; haven't; hasn't
+别	別	bie2, bie4	don't; depart; other; difference; distinguish
+不用	不用	bu2yong4	need not; no need for...
+不但	不但	bu2dan4	not only
+只好	只好	zhi3hao3	have to; be forced to; have no choice but to
+正在	正在	zheng4zai4	in the process of (doing something); while (doing)
+马上	馬上	ma3shang4	at once; immediately; right away
+把	把	ba3, ba4	(mw for things with handles); (pretransitive particle); to hold; a grip; a handle; stem (of plants)
+被	被	bei4	by (indicates passive voice sentences); quilt; blanket
+让	讓	rang4	to ask, let, yield
+或	或	huo4	or; perhaps
+或是	或是	huo4shi4	or; either one or the other
+可能	可能	ke3neng2	possible; maybe
+然后	然後	ran2hou4	then; afterwards
+但是	但是	dan4shi4	but; however
+而且	而且	er2qie3	moreover; in addition; as well as
+虽然	雖然	sui1ran2	although; even though
+原来	原來	yuan2lai2	original; former; as it turns out
+也许	也許	ye3xu3	perhaps; probably; maybe
+为了	為了	wei4le5	in order to; for the sake of; for the purpose of
+必须	必須	bi4xu1	must; have to
+永远	永遠	yong3yuan3	forever; eternal; always
+边	邊	bian1	side; edge; margin; (suffix in place words)
+那么	那麼	na4me5	well... ; in that case; like that; in that way; so very much
+这么	這麼	zhe4me5	so (much); such; this way; like this
+本来	本來	ben3lai2	originally; at first
+要是	要是	yao4shi5	if; suppose; in case

@@ -1,0 +1,182 @@
+姓名	姓名	xing4ming2	full name
+公园	公園	gong1yuan2	public park
+国家	國家	guo2jia1	country; state; nation
+城市	城市	cheng2shi4	city or town
+街	街	jie1	street
+电子邮件	電子郵件	dian4zi3 you2jian4	email
+结婚	結婚	jie2hun1	get married
+小时	小時	xiao3shi2	hour
+点钟	點鐘	dian3zhong1	o'clock
+分钟	分鐘	fen1zhong1	minute; (mw for time)
+夏天	夏天	xia4tian1	summer
+冬天	冬天	dong1tian1	winter
+秋天	秋天	qiu1tian1	autumn; fall
+春天	春天	chun1tian1	spring (season)
+年轻	年輕	nian2qing1	young
+老	老	lao3	old; aged; tough; often; always (Kangxi radical 125)
+男生	男生	nan2sheng1	male student; schoolboy
+女生	女生	nv3sheng1	female student; schoolgirl; girl
+小孩	小孩	xiao3hai2	kid; children
+家人	家人	jia1ren2	family member; household; (one's) family
+紧张	緊張	jin3zhang1	nervous; strained; stressed out
+可爱	可愛	ke3'ai4	cute; lovely
+胖	胖	pang4, pan2	fat; plump; healthy; at ease
+矮	矮	ai3	short; low
+瘦	瘦	shou4	thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive
+千	千	qian1	thousand
+万	萬	wan4	ten thousand
+在	在	zai4	be at, on, in (a place or time); exist; rest with; (indicating an action in progress)
+办公室	辦公室	ban4gong1shi4	office
+工厂	工廠	gong1chang3	factory
+工人	工人	gong1ren2	worker
+护士	護士	hu4shi5	nurse; doctor’s helper
+司机	司機	si1ji1	driver; chauffeur
+老板	老闆	lao3ban3	boss; proprietor; shopkeeper
+同事	同事	tong2shi4	colleague; co-worker
+上班	上班	shang4ban1	go to work; be on duty; start work; go to the office
+小学	小學	xiao3xue2	primary school; elementary school
+上学	上學	shang4 xue2	go to school
+作业	作業	zuo4ye4	school assignment; homework; task
+功课	功課	gong1ke4	homework; schoolwork
+请假	請假	qing3jia4	ask for time off
+教室	教室	jiao4shi4	classroom
+洗手间	洗手間	xi3shou3jian1	toilet; lavatory; washroom; restroom
+厕所	廁所	ce4suo3	toilet; lavatory; bathroom (colloquial)
+语言	語言	yu3yan2	language
+科学	科學	ke1xue2	science; scientific knowledge
+华语	華語	hua2yu3	Chinese (language)
+华文	華文	hua2wen2	Chinese (language)
+黑板	黑板	hei1ban3	blackboard
+课本	課本	ke4ben3	textbook
+句子	句子	ju4zi5	sentence
+注意	注意	zhu4yi4	pay attention to; take notice of; be careful
+读书	讀書	du2 shu1	to study; read; attend school
+回答	回答	hui2da2	reply; answer
+休息	休息	xiu1xi5	to rest; take a break
+决定	決定	jue2ding4	decide; decision
+图片	圖片	tu2pian4	image; picture; photograph
+画画儿	畫畫兒	hua4hua4r5	to paint; to draw
+记得	記得	ji4de5	remember
+房间	房間	fang2jian1	room
+厨房	廚房	chu2fang2	kitchen
+窗户	窗戶	chuang1hu5	window
+楼	樓	lou2	floor; storied building
+楼上	樓上	lou2shang4	upstairs
+楼下	樓下	lou2xia4	downstairs
+电梯	電梯	dian4ti1	elevator; lift
+家具	家具	jia1ju4	furniture
+椅子	椅子	yi3zi5	chair
+桌子	桌子	zhuo1zi5	table; desk
+沙发	沙發	sha1fa1	sofa
+床	床	chuang2	bed; couch; mv for blankets, duvets or sheets
+关	關	guan1	to close; shut; concern; relationship; turn off; mountain pass
+冷气机	冷氣機	leng3qi4ji1	air conditioner
+安静	安靜	an1jing4	quiet; peaceful; calm
+不错	不錯	bu2cuo4	not bad; pretty good; correct
+海边	海邊	hai3bian1	seaside
+湖	湖	hu2	lake
+马	馬	ma3	horse (Kangxi radical 187)
+鸟	鳥	niao3	bird (Kangxi radical 196)
+猫	貓	mao1	cat
+鸡	雞	ji1	chicken
+太阳	太陽	tai4yang2	the sun
+下雨	下雨	xia4yu3	to rain
+下雪	下雪	xia4xue3	to snow
+新年	新年	xin1nian2	New Year
+游泳	游泳	you2yong3	to swim
+踢	踢	ti1	to kick; to play (football or soccer)
+足球	足球	zu2qiu2	football; soccer
+篮球	籃球	lan2qiu2	basketball
+网球	網球	wang3qiu2	tennis; tennis ball
+棒球	棒球	bang4qiu2	baseball
+比赛	比賽	bi3sai4	(sports) match; competition
+骑	騎	qi2	ride or sit (astride)
+脚踏车	腳踏車	jiao3ta4che1	(Taiwan usage) bicycle
+自行车	自行車	zi4xing2che1	bike; bicycle
+跑步	跑步	pao3 bu4	to run; to jog
+电影院	電影院	dian4ying3yuan4	cinema; movie theater
+表演	表演	biao3yan3	perform; performance
+上网	上網	shang4wang3	to surf the web; to go online
+输	輸	shu1	to transport; lose (a game, etc.)
+赢	贏	ying2	to win; to beat; to profit
+有时候	有時候	you3 shi2hou5	sometimes
+久	久	jiu3	long; for a long time
+报纸	報紙	bao4zhi3	newspaper
+不客气	不客氣	bu2ke4qi5	you're welcome; don't be polite; impolite
+礼物	禮物	li3wu4	a gift; a present
+欢迎	歡迎	huan1ying2	to welcome; greet
+晚会	晚會	wan3hui4	evening party; social evening
+信封	信封	xin4feng1	envelope
+寄	寄	ji4	send; to mail; depend on
+接	接	jie1	receive; connect; to meet; to pick up (sb.); to answer (the phone)
+邮局	郵局	you2ju2	post office
+银行	銀行	yin2hang2	financial bank
+警察	警察	jing3cha2	police
+坏	壞	huai4	bad; broken; go bad; spoil
+帮忙	幫忙	bang1mang2	to help (with a favour)
+计程车	計程車	ji4cheng2che1	taxi (Taiwan)
+车站	車站	che1zhan4	(bus, train, etc.) stop; station
+火车	火車	huo3che1	train
+飞机	飛機	fei1ji1	airplane
+机场	機場	ji1chang3	airport; airfield
+马路	馬路	ma3lu4	street; road
+十字路口	十字路口	shi2zi4 lu4kou3	intersection; crossroads
+对面	對面	dui4mian4	opposite; across from; the other side
+里面	裡面	li3mian4	inside; interior
+旅行	旅行	lv3xing2	to travel; a journey
+饭店	飯店	fan4dian4	restaurant; hotel
+旅馆	旅館	lv3guan3	inn; hotel; hostel
+参观	參觀	can1guan1	to visit (a place, such as a tourist spot); to tour; inspect
+地图	地圖	di4tu2	map
+照相机	照相機	zhao4xiang4ji1	camera
+照相	照相	zhao4 xiang4	to take a photograph
+风景	風景	feng1jing3	scenery; landscape
+头	頭	tou2	head; the first; leading; (mw for larger livestock)
+头发	頭髮	tou2fa5	hair (on the head)
+耳朵	耳朵	er3duo5	ear
+手指头	手指頭	shou3zhi3tou5	finger; fingertips
+肚子	肚子	du4zi5	belly; abdomen; stomach
+健康	健康	jian4kang1	health; healthy
+感冒	感冒	gan3mao4	catch cold; (common) cold
+生病	生病	sheng1bing4	get sick; become ill
+受伤	受傷	shou4 shang1	be injured
+饿	餓	e4	hungry
+渴	渴	ke3	thirsty
+舒服	舒服	shu1fu5	comfortable; feeling well
+眼镜	眼鏡	yan3jing4	glasses; spectacles
+痛	痛	tong4	to ache; pain; sorrow; agonize
+希望	希望	xi1wang4	hope; wish for; desire
+商店	商店	shang1dian4	shop; store
+店	店	dian4	shop; store; inn
+重要	重要	zhong4yao4	important; significant; major
+公斤	公斤	gong1jin1	kilogram
+颜色	顏色	yan2se4	color; countenance; facial expression
+黄色	黃色	huang2se4	yellow (color)
+白色	白色	bai2se4	white
+袜子	襪子	wa4zi5	socks; stockings
+裙子	裙子	qun2zi5	skirt; dress
+短	短	duan3	short (in length, duration)
+小心	小心	xiao3xin1	be careful
+牛奶	牛奶	niu2nai3	cow's milk
+蛋	蛋	dan4	egg
+饺子	餃子	jiao3zi5	dumpling
+面	麵	mian4	noodle; flour
+汤	湯	tang1	soup
+包子	包子	bao1zi5	steamed stuffed bun
+蛋糕	蛋糕	dan4gao1	cake
+面包	麵包	mian4bao1	bread
+水果	水果	shui3guo3	fruit
+香蕉	香蕉	xiang1jiao1	banana
+食物	食物	shi2wu4	food
+饮料	飲料	yin3liao4	beverage; drink
+果汁	果汁	guo3zhi1	fruit juice
+杯子	杯子	bei1zi5	cup; glass
+甜	甜	tian2	sweet; deep, sound (sleep);  agreeable;  (slang) profitable; well-paying
+菜单	菜單	cai4dan1	menu; bill of fare
+巧克力	巧克力	qiao3ke4li4	chocolate (loan word)
+碗	碗	wan3	a bowl; a cup
+盘子	盤子	pan2zi5	plate; dish; tray
+片	片	pian4, pian1	(mw for pieces of things); a slice; a flake (Kangxi radical 91); film; photo
+一半	一半	yi2ban4	(one) half
+过	過	guo4	to pass; to cross; go over; celebrate; (indicates a past experience)
+一定	一定	yi2ding4	must be; surely; certainly; necessarily; definite

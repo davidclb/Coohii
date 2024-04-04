@@ -1,0 +1,10 @@
+一	一	yi1	 "one; once; a (article) (Kangxi radical 1)" 
+二	二	er4	 "two (Kangxi radical 7)"
+三	三	san1 three 
+四	四	si4	 four
+五	五	wu3	 five
+六	六	liu4 six
+七	七	qi1	 seven
+八	八	ba1	 "eight (Kangxi radical 12); (original meaning: separate; distinguish; all around)"
+九	九	jiu3  nine
+十	十	shi2  "ten (Kangxi radical 24)"

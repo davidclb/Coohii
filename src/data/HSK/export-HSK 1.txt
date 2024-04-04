@@ -1,0 +1,150 @@
+我	我	wo3	I; me
+你	你	ni3	you
+他	他	ta1	he; him; (gender-neutral term for both sexes)
+的	的	de5, di4, di2	(possessive, modifying, or descriptive particle)
+是	是	shi4	to be (is, am, are)
+不	不	bu4	no; not
+吗	嗎	ma5	(particle for yes/no questions)
+她	她	ta1	she
+什么	什麼	shen2me5	what; whatever; anything; something
+这	這	zhe4, zhei4	this; these
+一	一	yi1	one; once; a (article) (Kangxi radical 1)
+二	二	er4	two (Kangxi radical 7)
+三	三	san1	three
+四	四	si4	four
+五	五	wu3	five
+六	六	liu4	six
+七	七	qi1	seven
+八	八	ba1	eight (Kangxi radical 12); (original meaning: separate; distinguish; all around)
+九	九	jiu3	nine
+十	十	shi2	ten (Kangxi radical 24)
+呢	呢	ne5, ni2	(modal particle ending a question); how about...?; what about...?
+很	很	hen3	very; rather; quite
+我们	我們	wo3men5	we; us
+人	人	ren2	person; man; people (Kangxi radical 9)
+那	那	na4, nei4	that; in that case; then
+老师	老師	lao3shi1	teacher
+个	個	ge5, ge4	general measure word; individual
+有	有	you3	have; there is
+好	好	hao3, hao4	good; well; nice; very; quite; be fond of
+名字	名字	ming2zi5	a name
+再见	再見	zai4jian4	goodbye; see you later
+谁	誰	shei2, shui2	who
+在	在	zai4	be at, on, in (a place or time); exist; rest with; (indicating an action in progress)
+谢谢	謝謝	xie4xie5	to thank; thank you
+几	幾	ji3, ji1	how many; several; a few; almost
+学生	學生	xue2sheng1	student
+中国	中國	zhong1guo2	China
+大	大	da4, dai4	big; large; great (Kangxi radical 37)
+去	去	qu4	go; go to (a place); send; cause to go; remove; get rid of; depart from
+妈妈	媽媽	ma1ma5	Mom; mother
+今天	今天	jin1tian1	today; at the present; now
+和	和	he2, huo4, huo2, he4	and; with; harmony; peace;; mix together;; soft; warm;; join in the singing
+朋友	朋友	peng2you5	friend
+叫	叫	jiao4	to call; to cry; to shout; to name; be called; to greet; to hire; to order
+都	都	dou1, du1	all; both; capital; metropolis
+了	了	le5, liao3, liao4	(particle for a new situation or completed action), finish; understand; clear
+爸爸	爸爸	ba4ba5	father; dad
+书	書	shu1	book; letter
+哪	哪	na3, nei3, na5	which; how
+现在	現在	xian4zai4	now
+太	太	tai4	too (much); excessively; highest; greatest
+来	來	lai2	come; arrive; ever since; next
+看	看	kan4, kan1	see; look at; to watch; regard; watch over; look after
+小	小	xiao3	small; young (Kangxi radical 42)
+吃	吃	chi1	to eat
+请	請	qing3	please; invite; to request; treat
+多	多	duo1	many; much; a lot of; more than
+饭店	飯店	fan4dian4	restaurant; hotel
+做	做	zuo4	do; make; to produce; be; to cook; write
+怎么样	怎麼樣	zen3me5yang4	how?; how about?; how was it?; how are things?
+对不起	對不起	dui4bu5qi3	sorry
+明天	明天	ming2tian1	tomorrow
+想	想	xiang3	think; believe; suppose; wish; would like to; remember with longing; to miss
+同学	同學	tong2xue2	fellow student; schoolmate
+年	年	nian2	year
+月	月	yue4	moon; month; (Kangxi radical 74: moon; Kangxi radical 130: flesh)
+多少	多少	duo1shao5	how much; how many; somewhat
+家	家	jia1	family; home; household; MW for businesses
+点	點	dian3	spot; drop; dot; point; a bit; a little; o'clock; to order (in a restaurant); to light; to ignite
+工作	工作	gong1zuo4	work; a job
+上午	上午	shang4wu3	morning (before noon)
+下午	下午	xia4wu3	afternoon
+买	買	mai3	to buy
+不客气	不客氣	bu2ke4qi5	you're welcome; don't be polite; impolite
+上	上	shang4	above; up; on top; get on; go up; to attend
+小姐	小姐	xiao3jie3	young lady; miss
+岁	歲	sui4	years old; age
+听	聽	ting1	listen; hear; heed
+喜欢	喜歡	xi3huan5	to like; be fond of
+喝	喝	he1, he4	to drink; shout loudly
+时候	時候	shi2hou5	time; length of time; moment
+星期	星期	xing1qi1	week
+先生	先生	xian1sheng5	Mr.; Sir; husband
+学校	學校	xue2xiao4	school; campus
+学习	學習	xue2xi2	to learn; to study
+高兴	高興	gao1xing4	happy; glad; willing (to do something)
+怎么	怎麼	zen3me5	how; however; what; why
+认识	認識	ren4shi5	know; recognize; acquainted with (a person)
+能	能	neng2	can; be able; capable; energy; ability
+住	住	zhu4	to live; reside; to stop
+下	下	xia4	under; below; to descend; to fall; down; next; the second (of two parts)
+钱	錢	qian2	money; coin; Chinese Surname
+会	會	hui4, kuai4	can; to know how; be good at; be likely to; shall; meeting; conference; accounts
+写	寫	xie3	write; compose
+东西	東西	dong1xi5	thing; objects; stuff
+里	裡	li3	inside; internal
+汉语	漢語	Han4yu3	Chinese (language)
+号	號	hao4, hao2	number; day of a month; (mw for ordinal numbers); howl
+昨天	昨天	zuo2tian1	yesterday
+块	塊	kuai4	lump; chunk (mw for pieces of soap, cake, cloth, units of currency, etc)
+女儿	女兒	nv3'er2	daughter
+字	字	zi4	word; letter; character
+坐	坐	zuo4	to sit; to travel by; to take
+儿子	兒子	er2zi5	son
+没关系	沒關係	mei2 guan1xi5	it doesn't matter; never mind; "that's okay"
+本	本	ben3	(mw for books); root or stem of plants; origin; this
+中午	中午	zhong1wu3	noon; midday
+医生	醫生	yi1sheng1	doctor; physician
+少	少	shao3, shao4	few; little; lack; lose; young
+水	水	shui3	water (Kangxi radical 85)
+电视	電視	dian4shi4	television; TV
+回	回	hui2	to return; go back; turn around; to reply; occasion (mw for matters or actions); the Hui nationality
+没有	沒有	mei2you3	not have; there is not; haven't; hasn't
+睡觉	睡覺	shui4jiao4	to sleep; to go to bed
+开	開	kai1	to open; to start; to turn on; to operate (a vehicle)
+电影	電影	dian4ying3	movie; film
+桌子	桌子	zhuo1zi5	table; desk
+漂亮	漂亮	piao4liang5	pretty; beautiful
+天气	天氣	tian1qi4	weather
+菜	菜	cai4	dish (type of food); cuisine; vegetables; (coll) one's type
+热	熱	re4	heat; hot; heat up
+茶	茶	cha2	tea
+商店	商店	shang1dian4	shop; store
+些	些	xie1	some; few; several; (mw for indefinite amount)
+看见	看見	kan4jian4	see; catch sight of
+衣服	衣服	yi1fu5	clothes
+北京	北京	Bei3jing1	Beijing
+喂	喂	wei2, wei4	hello (on the phone); hey
+狗	狗	gou3	dog
+飞机	飛機	fei1ji1	airplane
+前面	前面	qian2mian5	in front; fore; ahead; preceding
+分钟	分鐘	fen1zhong1	minute; (mw for time)
+打电话	打電話	da3 dian4hua4	make a phone call
+爱	愛	ai4	love; affection; be fond of
+冷	冷	leng3	cold
+杯子	杯子	bei1zi5	cup; glass
+苹果	蘋果	ping2guo3	apple
+水果	水果	shui3guo3	fruit
+读	讀	du2, dou4	to read; to study; comma; phrase marked by pause
+医院	醫院	yi1yuan4	hospital
+后面	後面	hou4mian5	rear; back; behind
+米饭	米飯	mi3fan4	(cooked) rice
+下雨	下雨	xia4yu3	to rain
+电脑	電腦	dian4nao3	computer
+椅子	椅子	yi3zi5	chair
+出租车	出租車	chu1zu1che1	taxi; cab
+猫	貓	mao1	cat
+说	說	shuo1, shui4	speak; to say; to talk
+一点儿	一點兒	yi4dian3r5	a bit; a few; a little
+哪儿	哪兒	na3r5	where; wherever (northern China)

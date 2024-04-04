@@ -1,0 +1,500 @@
+的	的	de5, di4, di2	(possessive, modifying, or descriptive particle)
+我	我	wo3	I; me
+你	你	ni3	you
+是	是	shi4	to be (is, am, are)
+了	了	le5, liao3, liao4	(particle for a new situation or completed action), finish; understand; clear
+不	不	bu4	no; not
+在	在	zai4	be at, on, in (a place or time); exist; rest with; (indicating an action in progress)
+他	他	ta1	he; him; (gender-neutral term for both sexes)
+我们	我們	wo3men5	we; us
+好	好	hao3, hao4	good; well; nice; very; quite; be fond of
+有	有	you3	have; there is
+这	這	zhe4, zhei4	this; these
+就	就	jiu4	then; at once; just; only; with regard to; exactly; precisely
+会	會	hui4, kuai4	can; to know how; be good at; be likely to; shall; meeting; conference; accounts
+吗	嗎	ma5	(particle for yes/no questions)
+要	要	yao4, yao1	to want; to need; will/shall; important; demand; request
+什么	什麼	shen2me5	what; whatever; anything; something
+说	說	shuo1, shui4	speak; to say; to talk
+她	她	ta1	she
+想	想	xiang3	think; believe; suppose; wish; would like to; remember with longing; to miss
+和	和	he2, huo4, huo2, he4	and; with; harmony; peace;; mix together;; soft; warm;; join in the singing
+一	一	yi1	one; once; a (article) (Kangxi radical 1)
+很	很	hen3	very; rather; quite
+知道	知道	zhi1dao5	know; be aware of
+人	人	ren2	person; man; people (Kangxi radical 9)
+吧	吧	ba5, ba1	particle indicating polite suggestion;; onomatopoeia; bar (serving drinks, providing internet access, etc.)
+那	那	na4, nei4	that; in that case; then
+来	來	lai2	come; arrive; ever since; next
+都	都	dou1, du1	all; both; capital; metropolis
+个	個	ge5, ge4	general measure word; individual
+能	能	neng2	can; be able; capable; energy; ability
+去	去	qu4	go; go to (a place); send; cause to go; remove; get rid of; depart from
+没	沒	mei2, mo4	not have; there is not; (negative verb prefix); to drown; submerge
+他们	他們	ta1men5	they; them
+到	到	dao4	arrive (at a place); until (a time)
+也	也	ye3	also; too, as well as
+对	對	dui4	correct; a pair; to face; be opposite; to; towards
+还	還	hai2, huan2	still; yet; in addition; even.; repay; to return
+做	做	zuo4	do; make; to produce; be; to cook; write
+上	上	shang4	above; up; on top; get on; go up; to attend
+给	給	gei3, ji3	to give; to grant; (passive particle); provide
+中	中	zhong1, zhong4	in the middle; medium; among; China; to hit (the mark); be hit; receive
+你们	你們	ni3men5	you (plural)
+过	過	guo4	to pass; to cross; go over; celebrate; (indicates a past experience)
+没有	沒有	mei2you3	not have; there is not; haven't; hasn't
+年	年	nian2	year
+看	看	kan4, kan1	see; look at; to watch; regard; watch over; look after
+真	真	zhen1	real; true; genuine
+着	着	zhe5, zhao2, zhuo2, zhao1	-ing (indicating action in progress); to touch; to feel; to wear; apply
+事	事	shi4	matter; affair; thing; event; trouble; accident; job; work; responsibility; involvement
+怎么	怎麼	zen3me5	how; however; what; why
+现在	現在	xian4zai4	now
+点	點	dian3	spot; drop; dot; point; a bit; a little; o'clock; to order (in a restaurant); to light; to ignite
+呢	呢	ne5, ni2	(modal particle ending a question); how about...?; what about...?
+日	日	ri4	sun; day; date; time (Kangxi radical 72)
+月	月	yue4	moon; month; (Kangxi radical 74: moon; Kangxi radical 130: flesh)
+别	別	bie2, bie4	don't; depart; other; difference; distinguish
+大	大	da4, dai4	big; large; great (Kangxi radical 37)
+走	走	zou3	to walk; to go; to move (Kangxi radical 156)
+太	太	tai4	too (much); excessively; highest; greatest
+等	等	deng3	wait; await; when; till; class; rank; grade; kind; sort; equal; and so on; etc.
+地	地	di4, de5	earth; ground;; - ly (structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct)
+里	裡	li3	inside; internal
+跟	跟	gen1	to follow; with; to; from; and; heel
+告诉	告訴	gao4su5	to tell; inform; let sb. know
+后	後	hou4	back; behind; rear; after; later
+两	兩	liang3	two (cardinal number); both; (unit of weight equal to 50 grams)
+再	再	zai4	again; once more; then
+听	聽	ting1	listen; hear; heed
+这里	這裡	zhe4li3	here
+快	快	kuai4	fast; quick; soon
+谁	誰	shei2, shui2	who
+多	多	duo1	many; much; a lot of; more than
+用	用	yong4	to use (Kangxi radical 101)
+时候	時候	shi2hou5	time; length of time; moment
+下	下	xia4	under; below; to descend; to fall; down; next; the second (of two parts)
+从	從	cong2	from; follow; since; obey; observe
+谢谢	謝謝	xie4xie5	to thank; thank you
+觉得	覺得	jue2de5	feel; think
+天	天	tian1	day; sky; heaven; weather
+中国	中國	zhong1guo2	China
+元	元	yuan2	Chinese monetary unit; dollar; first; principal
+先生	先生	xian1sheng5	Mr.; Sir; husband
+找	找	zhao3	look for; seek; give change
+最	最	zui4	the most; -est; (indicator for superlative)
+喜欢	喜歡	xi3huan5	to like; be fond of
+次	次	ci4	(mw for number of times of occurrence); nth; order
+出	出	chu1	go out; occur
+干	干	gan1	to concern; shield (Kangxi radical 51)
+们	們	men5, men2	(particle forming a plural pronoun)
+话	話	hua4	words; speech; language; dialect
+新	新	xin1	new
+东西	東西	dong1xi5	thing; objects; stuff
+孩子	孩子	hai2zi5	child; children; son or daughter
+起来	起來	qi3lai2	(beginning or continuing an action); to rise; get up (from bed)
+小	小	xiao3	small; young (Kangxi radical 42)
+这些	這些	zhe4xie1	these
+错	錯	cuo4	mistake; error; miss an opportunity
+还有	還有	hai2you3	in addition; also; furthermore
+工作	工作	gong1zuo4	work; a job
+叫	叫	jiao4	to call; to cry; to shout; to name; be called; to greet; to hire; to order
+前	前	qian2	before; in front; forward
+一起	一起	yi4qi3	together; in the same place
+拿	拿	na2	carry in your hand; take; get
+家	家	jia1	family; home; household; MW for businesses
+帮	幫	bang1	to help; assist; group; gang
+打	打	da3, da2	to hit; to beat; to play; to type; dozen
+爱	愛	ai4	love; affection; be fond of
+时间	時間	shi2jian1	time; period
+请	請	qing3	please; invite; to request; treat
+回	回	hui2	to return; go back; turn around; to reply; occasion (mw for matters or actions); the Hui nationality
+见	見	jian4	see; meet; appear to be ; (Kangxi radical 147)
+钱	錢	qian2	money; coin; Chinese Surname
+一样	一樣	yi2yang4	the same; alike; equal to
+吃	吃	chi1	to eat
+本	本	ben3	(mw for books); root or stem of plants; origin; this
+开	開	kai1	to open; to start; to turn on; to operate (a vehicle)
+非常	非常	fei1chang2	extremely; extraordinary; very
+看到	看到	kan4dao4	see; catch sight of; notice
+那些	那些	na4xie1	those
+哪	哪	na3, nei3, na5	which; how
+还是	還是	hai2shi5	or (for questions only); still; yet; nevertheless; had better
+行	行	xing2, hang2	to walk; be current; do; will do; okay; a row; series; place; a firm; (Kangxi radical 144)
+朋友	朋友	peng2you5	friend
+比	比	bi3	compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks
+妈妈	媽媽	ma1ma5	Mom; mother
+这儿	這兒	zhe4r5	here
+今天	今天	jin1tian1	today; at the present; now
+明白	明白	ming2bai5	clear; obvious; understand; explicit
+国家	國家	guo2jia1	country; state; nation
+车	車	che1, ju1	car; vehicle; machine (Kangxi radical 159); (written) chariot
+高	高	gao1	high; tall (Kangxi radical 189)
+手	手	shou3	hand (Kangxi radical 64)
+地方	地方	di4fang5	place; space; room; part
+几	几	ji3, ji1	small table (Kangxi radical 16)
+回来	回來	hui2lai2	to return; come back
+准备	準備	zhun3bei4	prepare; get ready
+找到	找到	zhao3dao4	to find
+爸爸	爸爸	ba4ba5	father; dad
+分	分	fen1, fen4	divide; part; minute; cent; component; share; ingredient; point
+出来	出來	chu1lai2	come out; emerge
+一些	一些	yi4xie1	some; a few; a little; a number of; certain
+对不起	對不起	dui4bu5qi3	sorry
+起	起	qi3	to rise; to raise; get up
+问	問	wen4	ask; inquire
+一点儿	一點兒	yi4dian3r5	a bit; a few; a little
+住	住	zhu4	to live; reside; to stop
+正	正	zheng4, zheng1	just (right); straighten; rectify; correct; currently; at the moment; straight; pure; precisely; first lunar month
+放	放	fang4	put; to place; to release; to free
+电话	電話	dian4hua4	telephone; phone call
+进	進	jin4	enter; come in
+重要	重要	zhong4yao4	important; significant; major
+今年	今年	jin1nian2	this year
+您	您	nin2	you (polite)
+三	三	san1	three
+那里	那裡	na4li3	there
+高兴	高興	gao1xing4	happy; glad; willing (to do something)
+老	老	lao3	old; aged; tough; often; always (Kangxi radical 125)
+先	先	xian1	first; early; before
+买	買	mai3	to buy
+医生	醫生	yi1sheng1	doctor; physician
+外	外	wai4	outer; outside; in addition; foreign
+北京	北京	Bei3jing1	Beijing
+最后	最後	zui4hou4	final; last; finally; at last
+哪儿	哪兒	na3r5	where; wherever (northern China)
+岁	歲	sui4	years old; age
+水	水	shui3	water (Kangxi radical 85)
+女人	女人	nv3ren2	woman; women
+名字	名字	ming2zi5	a name
+认识	認識	ren4shi5	know; recognize; acquainted with (a person)
+坐	坐	zuo4	to sit; to travel by; to take
+喝	喝	he1, he4	to drink; shout loudly
+记得	記得	ji4de5	remember
+写	寫	xie3	write; compose
+穿	穿	chuan1	to wear; put on; penetrate
+哪里	哪裡	na3li3	where;  wherever; how could it be (humble denial of compliment)
+送	送	song4	to deliver; to carry; to give; to send; to take someone somewhere
+女孩	女孩	nv3hai2	girl; lass
+号	號	hao4, hao2	number; day of a month; (mw for ordinal numbers); howl
+笑	笑	xiao4	to laugh; to smile
+玩	玩	wan2	to play; have a good time; visit; enjoy
+跑	跑	pao3	to run; to escape; to race
+学生	學生	xue2sheng1	student
+早	早	zao3	early; (early) morning; good morning!
+得到	得到	de2dao4	get; obtain
+小时	小時	xiao3shi2	hour
+别人	別人	bie2ren2	other people; others
+男人	男人	nan2ren2	man; male; menfolk; husband; "hubby"
+出去	出去	chu1qu4	go out
+看见	看見	kan4jian4	see; catch sight of
+打电话	打電話	da3 dian4hua4	make a phone call
+儿子	兒子	er2zi5	son
+再见	再見	zai4jian4	goodbye; see you later
+女	女	nv3	woman; female (Kangxi radical 38)
+电	電	dian4	electricity; electrical
+马上	馬上	ma3shang4	at once; immediately; right away
+路	路	lu4	road; path; journey; route
+正在	正在	zheng4zai4	in the process of (doing something); while (doing)
+那儿	那兒	na4r5	there; that place (Beijing accent)
+难	難	nan2, nan4	difficult; bad; trouble; to blame
+明天	明天	ming2tian1	tomorrow
+站	站	zhan4	stand; a station; be on one's feet; service center
+多少	多少	duo1shao5	how much; how many; somewhat
+学习	學習	xue2xi2	to learn; to study
+晚上	晚上	wan3shang5	evening; night
+去年	去年	qu4nian2	last year
+没什么	沒什麼	mei2 shen2me5	it's nothing; never mind; it doesn't matter
+有些	有些	you3xie1	some; somewhat; rather
+块	塊	kuai4	lump; chunk (mw for pieces of soap, cake, cloth, units of currency, etc)
+回家	回家	hui2jia1	return home
+昨天	昨天	zuo2tian1	yesterday
+学校	學校	xue2xiao4	school; campus
+介绍	介紹	jie4shao4	introduce; recommend; to present
+说话	說話	shuo1hua4	to talk; speak
+花	花	hua1	flower; blossom; spend (money or time); cost
+她们	她們	ta1men5	they; them (for females)
+门	門	men2	door; opening; gate; (mw for classes and languages) (Kangxi radical 169)
+女儿	女兒	nv3'er2	daughter
+小姐	小姐	xiao3jie3	young lady; miss
+动	動	dong4	to move; to use; to act
+少	少	shao3, shao4	few; little; lack; lose; young
+国	國	guo2	country; state; nation
+忙	忙	mang2	busy
+子	子	zi3, zi5	son; child; 1st Earthly Branch (Kangxi radical 39); seed; (noun suffix)
+房子	房子	fang2zi5	house; building
+衣服	衣服	yi1fu5	clothes
+睡	睡	shui4	to sleep
+回去	回去	hui2 qu4	return; go back
+晚	晚	wan3	evening; night; late
+间	間	jian1, jian4	(mw for rooms); space; time; among; a gap; to separate
+学	學	xue2	to study; learn; science; -ology
+坏	壞	huai4	bad; broken; go bad; spoil
+口	口	kou3	mouth (Kangxi radical 30); (mw for people, mouthfuls)
+下午	下午	xia4wu3	afternoon
+杯	杯	bei1	cup; (mw for drinks)
+电影	電影	dian4ying3	movie; film
+球	球	qiu2	ball; globe
+试	試	shi4	to try; to test; examination
+身上	身上	shen1shang5	on one's body; at hand; on hand; (have something) with one
+房间	房間	fang2jian1	room
+汽车	汽車	qi4che1	car; automobile; bus; vehicle
+书	書	shu1	book; letter
+重	重	zhong4, chong2	heavy; intense; repeat; duplicate
+忘	忘	wang4	forget; overlook; to neglect
+进来	進來	jin4lai2	come in
+四	四	si4	four
+男	男	nan2	male
+第	第	di4	(prefix used to form ordinal numbers)
+医院	醫院	yi1yuan4	hospital
+进去	進去	jin4qu5	go in; enter
+听到	聽到	ting1dao4	hear; get to know (from hearing)
+那边	那邊	na4bian5	that side; that place; over there
+远	遠	yuan3	far; distant; remote
+床	床	chuang2	bed; couch; mv for blankets, duvets or sheets
+楼	樓	lou2	floor; storied building
+歌	歌	ge1	song
+唱	唱	chang4	sing; call loudly; to chant
+别的	別的	bie2de5	other
+包	包	bao1	to cover; to wrap; to hold; include; bag; (mw for containers, packages, etc.)
+字	字	zi4	word; letter; character
+关	關	guan1	to close; shut; concern; relationship; turn off; mountain pass
+五	五	wu3	five
+帮忙	幫忙	bang1mang2	to help (with a favour)
+常	常	chang2	always; often; frequently
+有的	有的	you3de5	some (exist); (there are) some (who/that are)
+哥哥	哥哥	ge1ge5	older brother
+白	白	bai2	white; snowy; pure; bright; empty (Kangxi radical 106)
+飞	飛	fei1	to fly (Kangxi radical 183)
+山	山	shan1	mountain; hill; peak (Kangxi radical 46)
+半	半	ban4	half; semi-; incomplete
+身体	身體	shen1ti3	health; (human) body
+西	西	xi1	West (Kangxi radical 146)
+风	風	feng1	wind; news; style (Kangxi radical 182)
+老师	老師	lao3shi1	teacher
+没关系	沒關係	mei2 guan1xi5	it doesn't matter; never mind; "that's okay"
+真的	真的	zhen1de5	really; real; truly; true
+最好	最好	zui4hao3	the best; had better ...; it would be best
+冷	冷	leng3	cold
+病	病	bing4	ailment; sickness; illness
+教	教	jiao1, jiao4	to teach; instruct; religion; teaching
+上午	上午	shang4wu3	morning (before noon)
+飞机	飛機	fei1ji1	airplane
+打开	打開	da3kai1	to open; turn on
+是不是	是不是	shi4bu5shi4	is it not...?; yes or no?
+早上	早上	zao3shang5	(early) morning
+热	熱	re4	heat; hot; heat up
+电视	電視	dian4shi4	television; TV
+二	二	er4	two (Kangxi radical 7)
+回到	回到	hui2dao4	return to
+男孩	男孩	nan2hai2	boy
+知识	知識	zhi1shi5	knowledge; intellectual
+大学	大學	da4xue2	university; college
+读	讀	du2, dou4	to read; to study; comma; phrase marked by pause
+这边	這邊	zhe4bian1	this side; here
+电脑	電腦	dian4nao3	computer
+差	差	cha4, cha1, chai1	poor; to lack; difference; to dispatch
+家里	家裡	jia1li3	home; in the home; in the family
+来到	來到	lai2dao4	arrive; come
+记	記	ji4	to remember; to record; to note
+认真	認真	ren4zhen1	serious; earnest; take seriously, conscientious
+休息	休息	xiu1xi5	to rest; take a break
+回答	回答	hui2da2	reply; answer
+票	票	piao4	ticket; bank note; a vote
+睡觉	睡覺	shui4jiao4	to sleep; to go to bed
+东	東	dong1	East; master; owner
+考试	考試	kao3shi4	test; exam; give or take a test
+六	六	liu4	six
+不用	不用	bu2yong4	need not; no need for...
+小孩	小孩	xiao3hai2	kid; children
+星期	星期	xing1qi1	week
+生气	生氣	sheng1qi4	angry; mad
+生日	生日	sheng1ri4	birthday
+南	南	nan2	South
+累	累	lei4, lei3, lei2	tired; accumulate; implicate; rope; bind together
+班	班	ban1	team; class; squad; shift
+手机	手機	shou3ji1	cellphone, mobile phone
+忘记	忘記	wang4ji4	forget
+左	左	zuo3	the left side; left
+十	十	shi2	ten (Kangxi radical 24)
+姐姐	姐姐	jie3jie5	older sister
+考	考	kao3	to test; take an exam; to check; verify; examine
+肉	肉	rou4	meat; flesh (Kangxi radical 130)
+记住	記住	ji4zhu5	remember; memorize
+洗	洗	xi3	to wash; bathe
+毛	毛	mao2	hair; fur; feather; Chinese unit of money equal to 1/10 yuan (Kangxi radical 82)
+干什么	幹什麼	gan4 shen2me5	what are you doing?; what's he/she up to?
+同学	同學	tong2xue2	fellow student; schoolmate
+北	北	bei3	north
+病人	病人	bing4ren2	a patient; sick person
+见面	見面	jian4mian4	meet/see somebody (face to face); meeting
+一会儿	一會兒	yi2hui4r5	a while; a moment
+天气	天氣	tian1qi4	weather
+一边	一邊	yi4bian1	one side; at the same time
+妹妹	妹妹	mei4mei5	younger sister
+工人	工人	gong1ren2	worker
+老人	老人	lao3ren2	old people; the aged; one's aged parents or grandparents
+右	右	you4	the right side; to the right
+菜	菜	cai4	dish (type of food); cuisine; vegetables; (coll) one's type
+吃饭	吃飯	chi1fan4	to eat (a meal)
+饿	餓	e4	hungry
+动作	動作	dong4zuo4	movement; motion; action
+饭	飯	fan4	food; meal; cooked rice
+慢	慢	man4	slow
+家人	家人	jia1ren2	family member; household; (one's) family
+国外	國外	guo2wai4	abroad; external (affairs); overseas
+明年	明年	ming2nian2	next year
+坐下	坐下	zuo4xia5	sit down
+树	樹	shu4	tree
+女朋友	女朋友	nv3peng2you5	girlfriend
+一半	一半	yi2ban4	(one) half
+上班	上班	shang4ban1	go to work; be on duty; start work; go to the office
+听见	聽見	ting1jian4	to hear
+有时候	有時候	you3 shi2hou5	sometimes
+课	課	ke4	class; subject; lesson; course
+好看	好看	hao3kan4	good-looking; nice-looking; attractive; interesting; good (of a movie, book, TV show, etc.)
+男朋友	男朋友	nan2peng2you5	boyfriend
+茶	茶	cha2	tea
+开玩笑	開玩笑	kai1 wan2xiao4	joke; play a joke; make fun of
+中午	中午	zhong1wu3	noon; midday
+路上	路上	lu4shang5	on the way; on a journey; road surface
+雨	雨	yu3	rain (Kangxi radical 173)
+下次	下次	xia4ci4	next time
+半年	半年	ban4nian2	half a year
+贵	貴	gui4	expensive; noble; honorable; Guizhou province (abbreviation)
+干净	乾淨	gan1jing4	clean; neat and tidy
+新年	新年	xin1nian2	New Year
+旁边	旁邊	pang2bian1	side; beside; next to
+八	八	ba1	eight (Kangxi radical 12); (original meaning: separate; distinguish; all around)
+学院	學院	xue2yuan4	college; institute; academy; school
+中间	中間	zhong1jian1	center; middle; between; among
+女生	女生	nv3sheng1	female student; schoolgirl; girl
+七	七	qi1	seven
+大学生	大學生	da4xue2sheng1	college student; university student
+奶奶	奶奶	nai3nai5	grandma; paternal grandmother
+开车	開車	kai1che1	to drive (a vehicle)
+在家	在家	zai4jia1	be at home
+地点	地點	di4dian3	place; site; location
+不大	不大	bu2da4	not very; not too; not often; not big
+小学	小學	xiao3xue2	primary school; elementary school
+起床	起床	qi3chuang2	get up; get out of bed
+上次	上次	shang4ci4	last time
+地上	地上	di4shang5	on (or above) the ground or floor
+桌子	桌子	zhuo1zi5	table; desk
+常常	常常	chang2chang2	often; usually; frequently
+机场	機場	ji1chang3	airport; airfield
+爷爷	爺爺	ye2ye5	father's father; paternal grandfather
+晚饭	晚飯	wan3fan4	dinner; supper
+页	頁	ye4	page; leaf (Kangxi radical 181)
+奶	奶	nai3	breast; milk
+外国	外國	wai4guo2	foreign country
+唱歌	唱歌	chang4 ge1	to sing (a song)
+上网	上網	shang4wang3	to surf the web; to go online
+火车	火車	huo3che1	train
+不对	不對	bu2 dui4	incorrect; wrong
+好吃	好吃	hao3chi1	tasty; tastes good
+午饭	午飯	wu3fan4	lunch
+水果	水果	shui3guo3	fruit
+右边	右邊	you4bian5	the right (directional) side
+读书	讀書	du2 shu1	to study; read; attend school
+男生	男生	nan2sheng1	male student; schoolboy
+车上	車上	che1shang4	in the car
+中学	中學	zhong1xue2	middle-school
+上课	上課	shang4ke4	attend class; give a lesson; go to class
+好玩	好玩	hao3wan2	fun; amusing; interesting
+上学	上學	shang4 xue2	go to school
+九	九	jiu3	nine
+牛奶	牛奶	niu2nai3	cow's milk
+商店	商店	shang1dian4	shop; store
+地图	地圖	di4tu2	map
+面包	麵包	mian4bao1	bread
+没事	沒事	mei2shi4	it doesn't matter; it's nothing; have nothing to do
+中文	中文	Zhong1wen2	Chinese (language)
+哪些	哪些	na3xie1	which; who; what (plural)
+下班	下班	xia4 ban1	get off work; finish work
+白天	白天	bai2tian1	daytime; during the day; day
+商场	商場	shang1chang3	market; bazaar; shopping mall
+左边	左邊	zuo3bian5	left side
+日期	日期	ri4qi1	date (time period)
+请问	請問	qing3 wen4	may I ask...
+鸡蛋	雞蛋	ji1dan4	chicken egg
+钱包	錢包	qian2bao1	wallet; purse
+百	百	bai3	hundred
+网上	網上	wang3shang4	online; on the web
+好听	好聽	hao3ting1	pleasant to hear
+洗手间	洗手間	xi3shou3jian1	toilet; lavatory; washroom; restroom
+楼上	樓上	lou2shang4	upstairs
+生病	生病	sheng1bing4	get sick; become ill
+半天	半天	ban4tian1	half a day; a long time
+放假	放假	fang4 jia4	have a holiday or vacation
+楼下	樓下	lou2xia4	downstairs
+门口	門口	men2kou3	doorway; entrance; gate
+饭店	飯店	fan4dian4	restaurant; hotel
+图书馆	圖書館	tu2shu1guan3	library
+小朋友	小朋友	xiao3peng2you5	child; little friend (term of address for children)
+下雨	下雨	xia4yu3	to rain
+走路	走路	zou3lu4	to walk; go on foot
+路口	路口	lu4kou3	intersection (of roads); crossing
+门票	門票	men2piao4	admissions ticket
+关上	關上	guan1shang5	to close (a door); turn off (lights, electrical;   equipment, etc.)
+开会	開會	kai1 hui4	have a meeting; be at a meeting
+马路	馬路	ma3lu4	street; road
+车站	車站	che1zhan4	(bus, train, etc.) stop; station
+汉语	漢語	Han4yu3	Chinese (language)
+爱好	愛好	ai4hao4	hobby; fond of; to like; interest
+弟	弟	di4	younger brother
+下车	下車	xia4che1	get off (a bus, train, car, etc.)
+前天	前天	qian2tian1	the day before yesterday
+有用	有用	you3yong4	useful
+零	零	ling2	zero
+打球	打球	da3qiu2	to play ball
+上车	上車	shang4che1	to board (a bus, train, car, etc.)
+杯子	杯子	bei1zi5	cup; glass
+机票	機票	ji1piao4	plane ticket
+看病	看病	kan4 bing4	visit a doctor; see a patient
+后天	後天	hou4tian1	the day after tomorrow
+早饭	早飯	zao3fan4	breakfast
+外语	外語	wai4yu3	foreign language
+星期天	星期天	xing1qi1tian1	Sunday
+放学	放學	fang4xue2	dismiss from school; after school
+小学生	小學生	xiao3xue2sheng1	primary school student
+有名	有名	you3ming2	famous; well-known
+电视机	電視機	dian4shi4ji1	television set
+车票	車票	che1piao4	train or bus ticket
+书店	書店	shu1dian4	bookstore
+中学生	中學生	zhong1xue2sheng1	secondary/middle/high school student
+下课	下課	xia4 ke4	to finish class
+电影院	電影院	dian4ying3yuan4	cinema; movie theater
+包子	包子	bao1zi5	steamed stuffed bun
+一块儿	一塊兒	yi2kuai4r5	at the same place; in company; together; one block, piece, unit of money (erhua variant)
+一下	一下	yi2xia4	a little bit/while; one time; once
+面条	麵條	mian4tiao2	noodles
+渴	渴	ke3	thirsty
+汉字	漢字	Han4zi4	Chinese character
+请假	請假	qing3jia4	ask for time off
+课本	課本	ke4ben3	textbook
+米饭	米飯	mi3fan4	(cooked) rice
+书包	書包	shu1bao1	schoolbag; satchel
+里边	裡邊	li3bian5	inside; in; within; interior
+北边	北邊	bei3bian5	north; northern side; north of
+星期日	星期日	xing1qi1ri4	Sunday
+南边	南邊	nan2bian5	South; South side; location to the South
+课文	課文	ke4wen2	text (of a lesson)
+外边	外邊	wai4bian5	outside; exterior; abroad
+本子	本子	ben3zi5	book; notebook; edition
+西边	西邊	xi1bian5	west; west side; west of
+不客气	不客氣	bu2ke4qi5	you're welcome; don't be polite; impolite
+后边	後邊	hou4bian5	back; rear; behind; latter
+上边	上邊	shang4bian5	above; over; upwards; those higher up; on top
+下边	下邊	xia4bian5	below; under; lower level
+请进	請進	qing3jin4	to come in; please enter
+东边	東邊	dong1bian5	east; eastern side; to the east of
+前边	前邊	qian2bian5	in front; ahead
+请坐	請坐	qing3zuo4	please sit down
+听写	聽寫	ting1xie3	to dictate; dictation
+打车	打車	da3che1	take a taxi
+教学楼	教學樓	jiao4xue2lou2	teaching building
+网友	網友	wang3you3	online friend; internet user; netizen 
+还	還	hai2, huan2	still; yet; in addition; even.; repay; to return
+地	地	di4, de5	earth; ground;; - ly (structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct)
+干	幹	gan4	to work; do; manage; tree trunk; capable; talented
