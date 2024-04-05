@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
-import { SidebarItem } from "@/components/sidebar-item";
+import { SidebarItem } from "./sidebar-item";
 
 type Props = {
   className?: string;
