@@ -90,6 +90,24 @@ CREATE TABLE "news" (
   "body" text NOT NULL
 );
 
+CREATE TABLE "hanzi_lists" (
+  "id" integer PRIMARY KEY,
+  "subject" varchar NOT NULL,
+  "created_on" timestamptz NOT NULL DEFAULT (now()),
+  "update_on" timestamp NOT NULL,
+  "body" text NOT NULL
+);
+
+CREATE TABLE "word_lists" (
+  "id" integer PRIMARY KEY,
+  "subject" varchar NOT NULL,
+  "created_on" timestamptz NOT NULL DEFAULT (now()),
+  "update_on" timestamp NOT NULL,
+  "body" text NOT NULL
+);
+
+
+
 CREATE INDEX ON "user_settings" ("user_id");
 
 CREATE INDEX ON "review" ("user_id");
