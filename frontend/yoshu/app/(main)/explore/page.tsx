@@ -1,13 +1,20 @@
 import { FeedWrapper } from "@/app/components/feed-wrapper";
 import { StickyWrapper } from "../../components/sticky-wrapper";
-
 import { Header } from "./header";
 import { UserProgress } from "@/app/components/user-progress";
-import { Button } from "@/app/components/ui/button";
-import { WordList } from "@/app/components/wordlist";
 import Image from "next/image";
+import { WordListCategorie } from "@/app/components/wordlist-categorie";
+import { WordListCategories } from "@/app/components/wordlist-categories";
+
+
+async function getUser(){
+        const res = await fetch(`http://http://127.0.0.1:3001/user`);
+        return res.json();
+}
 
 const ExplorePage = () => {
+
+  
   return (
     <div className='flex flex-row-reverse gap-[48px] px-6'>
       <StickyWrapper>
@@ -16,39 +23,27 @@ const ExplorePage = () => {
       <FeedWrapper>
         <Header title='Search a hanzi, a word or a sentence ' />
         <div className=' max-w-[912px] px-3 mx-auto  mb-20'>
-          <Button
-            type='button'
-            className='text-gray-900 border  border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800'
-          >
-            HSK
-          </Button>
-          <Button
-            type='button'
-            className='text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800'
-          >
-            New HSK
-          </Button>
-          <Button
-            type='button'
-            className='text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800'
-          >
-            TOCFL
-          </Button>
-          <Button
-            type='button'
-            className='text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800'
-          >
-            Custom
-          </Button>
-          <Button
-            type='button'
-            className='text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800'
-          >
-            All
-          </Button>
+          {/*           <WordListCategorie label='HSK' />
+          <WordListCategorie label='New HSK' />
+          <WordListCategorie label='TOCFL' />
+          <WordListCategorie label='Custom' />
+          <WordListCategorie label='All' /> */}
+          <WordListCategories />
         </div>
-        <div className=' px-5 grid auto-cols-max md:grid-cols-4 gap-3	 '>
-          <div className=' bg-emerald-500 	'>
+        <div
+          className='          
+             bg-emerald-500
+              pt-24
+              grid
+              grid-cols-1
+              sm:grid-cols-2
+              md:grid-cols-3
+              lg:grid-cols-4
+              xl:grid-cols-5
+              2xl:grid-cols-6
+              gap-8 '
+        >
+          {/*           <div className=' bg-emerald-500 	'>
             <div>
               <Image
                 className='h-auto max-w-full rounded-lg'
@@ -103,7 +98,26 @@ const ExplorePage = () => {
               width={100}
               alt='Dragon'
             />
-          </div>
+          </div> */}
+
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
+          <div className=' bg-blue-500'> My future listings</div>
         </div>
       </FeedWrapper>
     </div>
