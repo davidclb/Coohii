@@ -2,18 +2,130 @@ import { FeedWrapper } from "@/app/components/feed-wrapper";
 import { StickyWrapper } from "../../components/sticky-wrapper";
 import { Header } from "./header";
 import { UserProgress } from "@/app/components/user-progress";
-import Image from "next/image";
-import { WordListCategorie } from "@/app/components/wordlist-categorie";
 import { WordListCategories } from "@/app/components/wordlist-categories";
+import { CategorieCard } from "@/app/components/categorie-card";
+import { usePathname, useSearchParams } from "next/navigation";
 
+export const categories = [
+  {
+    label: "HSK1",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "HSK2",
+    type: "HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "HSK3",
+    type: "HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "HSK4",
+    type: "HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "HSK5",
+    type: "HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "HSK6",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "New HSK1",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "New HSK2",
+    type: "New HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "New HSK3",
+    type: "New HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "New HSK4",
+    type: "New HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "New HSK5",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "HSK1",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "HSK2",
+    type: "HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "HSK3",
+    type: "HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "HSK4",
+    type: "HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "HSK5",
+    type: "HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "HSK6",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "New HSK1",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "New HSK2",
+    type: "New HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "New HSK3",
+    type: "New HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "New HSK4",
+    type: "New HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "New HSK5",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+];
 
-async function getUser(){
-        const res = await fetch(`http://http://127.0.0.1:3001/user`);
-        return res.json();
+async function getUser() {
+  const res = await fetch(`http://localhost:3001/user`);
+  return res.json();
 }
 
-const ExplorePage = () => {
-
+export default async function ExplorePage() {
+  const userData = await getUser();
   
   return (
     <div className='flex flex-row-reverse gap-[48px] px-6'>
@@ -32,7 +144,6 @@ const ExplorePage = () => {
         </div>
         <div
           className='          
-             bg-emerald-500
               pt-24
               grid
               grid-cols-1
@@ -100,28 +211,16 @@ const ExplorePage = () => {
             />
           </div> */}
 
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
-          <div className=' bg-blue-500'> My future listings</div>
+          {categories.map((categorie: any) => {
+            return (
+              <CategorieCard
+                title={categorie.label}
+                categorieAttribute={categorie.image}
+              />
+            );
+          })}
         </div>
       </FeedWrapper>
     </div>
   );
-};
-
-export default ExplorePage;
+}
