@@ -1,73 +1,144 @@
-import { CategorieCard } from "@/app/components/categorie-card";
 import { FeedWrapper } from "@/app/components/feed-wrapper";
-import { StickyWrapper } from "@/app/components/sticky-wrapper";
-import { UserProgress } from "@/app/components/user-progress";
+import { StickyWrapper } from "../../../components/sticky-wrapper";
 import { Header } from "../header";
-import { WordCard } from "@/app/components/word-card";
+import { UserProgress } from "@/app/components/user-progress";
+import { WordListCategories } from "@/app/components/wordlist-categories";
+import { CategorieCard } from "@/app/components/categorie-card";
+import { usePathname, useSearchParams } from "next/navigation";
 
-export const words = [
+export const categories = [
   {
-    category: "HSK1",
+    label: "HSK1",
     type: "HSK",
     image: "/hsk1.jpeg",
-    carac_simpl: "还",
-    carac_trad: "還",
-    pinyin: "hai2, huan2",
-    meaning: "still; yet; in addition; even; repay; to return",
   },
   {
-    category: "HSK1",
+    label: "HSK2",
     type: "HSK",
-    image: "/hsk1.jpeg",
-    carac_simpl: "给",
-    carac_trad: "給",
-    pinyin: "gei3, ji3",
-    meaning: "to give; to grant; (passive particle); provide",
+    image: "/hsk2.jpeg",
   },
   {
-    category: "HSK1",
+    label: "HSK3",
     type: "HSK",
-    image: "/hsk1.jpeg",
-    carac_simpl: "还",
-    carac_trad: "還",
-    pinyin: "hai2, huan2",
-    meaning: "still; yet; in addition; even; repay; to return",
+    image: "/hsk3.jpeg",
   },
   {
-    category: "HSK1",
+    label: "HSK4",
     type: "HSK",
-    image: "/hsk1.jpeg",
-    carac_simpl: "给",
-    carac_trad: "給",
-    pinyin: "gei3, ji3",
-    meaning: "to give; to grant; (passive particle); provide",
+    image: "/hsk4.jpeg",
   },
   {
-    category: "HSK1",
+    label: "HSK5",
     type: "HSK",
-    image: "/hsk1.jpeg",
-    carac_simpl: "还",
-    carac_trad: "還",
-    pinyin: "hai2, huan2",
-    meaning: "still; yet; in addition; even; repay; to return",
+    image: "/hsk5.jpeg",
   },
   {
-    category: "HSK1",
+    label: "HSK6",
     type: "HSK",
     image: "/hsk1.jpeg",
-    carac_simpl: "给",
-    carac_trad: "給",
-    pinyin: "gei3, ji3",
-    meaning: "to give; to grant; (passive particle); provide",
+  },
+  {
+    label: "New HSK1",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "New HSK2",
+    type: "New HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "New HSK3",
+    type: "New HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "New HSK4",
+    type: "New HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "New HSK5",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "HSK1",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "HSK2",
+    type: "HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "HSK3",
+    type: "HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "HSK4",
+    type: "HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "HSK5",
+    type: "HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "HSK6",
+    type: "HSK",
+    image: "/hsk1.jpeg",
+  },
+  {
+    label: "New HSK1",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
+  },
+  {
+    label: "New HSK2",
+    type: "New HSK",
+    image: "/hsk2.jpeg",
+  },
+  {
+    label: "New HSK3",
+    type: "New HSK",
+    image: "/hsk3.jpeg",
+  },
+  {
+    label: "New HSK4",
+    type: "New HSK",
+    image: "/hsk4.jpeg",
+  },
+  {
+    label: "New HSK5",
+    type: "New HSK",
+    image: "/hsk5.jpeg",
   },
 ];
 
-export default async function WordsPage() {
+/* async function getUser() {
+  const res = await fetch(`http://localhost:3001/user`);
+  return res.json();
+} */
+
+export default function ExplorePage() {
+  /* const userData = await getUser(); */
+  
   return (
-    <>
-      <Header title='Search a hanzi, a word or a sentence ' />
-      <div
-        className='          
+    <div className='flex flex-row-reverse gap-[48px] px-6'>
+      <StickyWrapper>
+        <UserProgress />
+      </StickyWrapper>
+      <FeedWrapper>
+        <Header title='Search a hanzi, a word or a sentence ' />
+        <div className=' max-w-[912px] px-3 mx-auto  mb-20'>
+          <WordListCategories />
+        </div>
+        <div
+          className='          
               pt-24
               grid
               grid-cols-1
@@ -77,29 +148,18 @@ export default async function WordsPage() {
               xl:grid-cols-5
               2xl:grid-cols-6
               gap-8 '
-      >
-        {/*           {categories.map((categorie: any) => {
+        >
+
+          {categories.map((categorie: any) => {
             return (
               <CategorieCard
                 title={categorie.label}
                 categorieAttribute={categorie.image}
               />
             );
-          })} */}
-      </div>
-      {words.map((word: any) => {
-        return (
-          <WordCard
-            category={word.category}
-            type={word.type}
-            image={word.image}
-            carac_simpl={word.carac_simpl}
-            carac_trad={word.carac_simpl}
-            pinyin={word.pinyin}
-            meaning={word.meaning}
-          />
-        );
-      })}
-    </>
+          })}
+        </div>
+      </FeedWrapper>
+    </div>
   );
 }
