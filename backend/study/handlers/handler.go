@@ -24,27 +24,23 @@ type Config struct{
 		UserService: c.UserService,
 	}
 
-	c.R.Get("/api/study/accueil", h.Accueil)
-	c.R.Get("/api/study/kanji", h.Kanji)
-	c.R.Get("/api/study/stories", h.Stories)
+	c.R.Get("/api/explore/radicals", h.Radicals)
+	c.R.Get("/api/explore/sentences", h.Sentences)
+	c.R.Get("/api/explore/hanzi", h.Hanzi)
+	c.R.Get("/api/explore/words", h.Words)
+
+
+/* 	c.R.Get("/api/study/session", h.Radicals)
+	c.R.Get("/api/study/session/:id/cards", h.Sentences)
+	c.R.Get("/api/study/session/:id/answer", h.Hanzi)
+	c.R.Get("/api/study/session/:id/complete", h.Words)
+	
+
+	c.R.Get("/api/stats/:user_id", h.Radicals) */
+
+
 	 
  }
 
 
-func (h *Handler) Kanji(ctx *fiber.Ctx) error { 
-	return ctx.JSON(fiber.Map{
-		"hello": "it's me",
-		})
- 
-
-}
-
-
-func (h *Handler) Stories(ctx *fiber.Ctx) error { 
-	return ctx.JSON(fiber.Map{
-		"hello": "it's me",
-		})
-
-
-}
 
