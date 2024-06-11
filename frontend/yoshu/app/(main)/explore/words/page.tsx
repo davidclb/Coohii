@@ -1,10 +1,10 @@
 import { FeedWrapper } from "@/app/components/feed-wrapper";
 import { StickyWrapper } from "../../../components/sticky-wrapper";
-import { Header } from "../header";
 import { UserProgress } from "@/app/components/user-progress";
 import { WordListCategories } from "@/app/components/wordlist-categories";
 import { CategorieCard } from "@/app/components/categorie-card";
-import { usePathname, useSearchParams } from "next/navigation";
+import { Header } from "../header";
+import SearchBar from "../searchBar";
 
 export const categories = [
   {
@@ -124,16 +124,23 @@ export const categories = [
   return res.json();
 } */
 
-export default function ExplorePage() {
-  /* const userData = await getUser(); */
-  
+export default function ExploreWordsPage({
+  searchParams,
+}: {
+  searchParams?: {
+    query?: string;
+  };
+}) {
+  const query = searchParams?.query || "";
+  console.log("query", query);
   return (
     <div className='flex flex-row-reverse gap-[48px] px-6'>
-      <StickyWrapper>
+      {/*       <StickyWrapper>
         <UserProgress />
-      </StickyWrapper>
+      </StickyWrapper> */}
       <FeedWrapper>
-        <Header title='Search a hanzi, a word or a sentence ' />
+        {/* <Header title='Search a hanzi, a word or a sentence ' /> */}
+        <SearchBar />
         <div className=' max-w-[912px] px-3 mx-auto  mb-20'>
           <WordListCategories />
         </div>
@@ -149,7 +156,6 @@ export default function ExplorePage() {
               2xl:grid-cols-6
               gap-8 '
         >
-
           {categories.map((categorie: any) => {
             return (
               <CategorieCard

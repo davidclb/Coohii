@@ -1,5 +1,10 @@
+"use client";
+
 import Link from "next/link";
 import { Button } from "./ui/button";
+import { useAuth } from "../context/AuthContext";
+import { useState } from "react";
+import { LoginForm } from "./loginForm";
 
 type Props = {
   category: string;
@@ -20,13 +25,37 @@ export const WordCard = ({
   pinyin,
   meaning,
 }: Props) => {
+  // State related to Login Details of user
+
+  const { isAuthenticated, user, login, logout } = useAuth();
+
+  // State related to Login Form
+
+  const [showModal, setShowModal] = useState(false);
+
+  const handleOpenModal = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
+
+  const handleAddReview = () => {
+    if (isAuthenticated && user) {
+      console.log("balance la requete");
+    } else {
+      handleOpenModal();
+    }
+  };
+
   return (
     <>
       <div className='py-1 w-full'>
         <div className='lg:flex items-center justify-center w-full'>
           <div className=' lg:mr-7 lg:mb-0 mb-7 bg-white w-full p-6 shadow rounded-xl'>
-            <div className='flex items-center border-b border-gray-200 pb-6'>
-              <p className='text-2xl font-medium leading-5 text-gray-800'>
+            <div className='flex align-center justify-center border-b border-gray-200 pb-6'>
+              <p className='text-2xl block font-medium leading-5 text-gray-800'>
                 <Link href=' /search'>
                   <Button>
                     {carac_simpl} ({carac_simpl})
@@ -41,8 +70,12 @@ export const WordCard = ({
                 </div>
                 <Button
                   type='button'
-                  className={` 'text-gray-900 border  border-blue-500 hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-blue-500 focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800`}
-                ></Button>
+                  className={` bg-blue-500 focus:outline-none rounded-full text-white font-medium `}
+                  onClick={handleAddReview}
+                >
+                  {" "}
+                  Add to reviews
+                </Button>
               </div>
             </div>
             <div className='px-2'>
@@ -58,6 +91,11 @@ export const WordCard = ({
             </div>
           </div>
         </div>
+        <LoginForm
+          show={showModal}
+          onClose={handleCloseModal}
+          onLogin={login}
+        />
       </div>
     </>
   );

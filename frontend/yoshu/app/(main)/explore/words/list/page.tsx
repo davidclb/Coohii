@@ -2,8 +2,9 @@ import { CategorieCard } from "@/app/components/categorie-card";
 import { FeedWrapper } from "@/app/components/feed-wrapper";
 import { StickyWrapper } from "@/app/components/sticky-wrapper";
 import { UserProgress } from "@/app/components/user-progress";
-import { Header } from "../../header";
 import { WordCard } from "@/app/components/word-card";
+import { Header } from "../../header";
+import SearchBar from "../../searchBar";
 
 export const words = [
   {
@@ -62,10 +63,11 @@ export const words = [
   },
 ];
 
-export default async function WordsPage() {
+export default async function WordsListPage() {
   return (
     <>
-      <Header title='Search a hanzi, a word or a sentence ' />
+      {/*  <Header title='Search a hanzi, a word or a sentence ' /> */}
+      <SearchBar />
       <div
         className='          
               pt-24

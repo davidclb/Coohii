@@ -32,7 +32,7 @@ export const CategorieCard = ({ title, categorieAttribute }: Props) => {
 
     const url = queryString.stringifyUrl(
       {
-        url: "explore/words",
+        url: "/explore/words/list",
         query: updatedQuery,
       },
       { skipNull: true }

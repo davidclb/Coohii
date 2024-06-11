@@ -1,5 +1,10 @@
+import { CategorieCard } from "@/app/components/categorie-card";
+import { FeedWrapper } from "@/app/components/feed-wrapper";
+import { StickyWrapper } from "@/app/components/sticky-wrapper";
+import { UserProgress } from "@/app/components/user-progress";
 import { WordCard } from "@/app/components/word-card";
-import SearchBar from "../searchBar";
+import { Header } from "../../header";
+import SearchBar from "../../searchBar";
 
 export const words = [
   {
@@ -58,15 +63,7 @@ export const words = [
   },
 ];
 
-async function getSentences() {
-  const res = await fetch(`http://localhost:3001/sentences`);
-  return res.json();
-}
-
-export default async function RadicalsPage() {
-
-  const wordList = await getSentences();
-
+export default async function WordsPage() {
   return (
     <>
       {/*  <Header title='Search a hanzi, a word or a sentence ' /> */}

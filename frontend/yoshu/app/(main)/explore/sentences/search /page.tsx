@@ -1,5 +1,5 @@
 import { WordCard } from "@/app/components/word-card";
-import SearchBar from "../searchBar";
+import SearchBar from "../../searchBar";
 
 export const words = [
   {
@@ -64,7 +64,6 @@ async function getSentences() {
 }
 
 export default async function RadicalsPage() {
-
   const wordList = await getSentences();
 
   return (

@@ -7,6 +7,8 @@ type Props = {
 };
 
 const MainLayout = ({ children }: Props) => {
+
+
   return (
     <>
       <MobileHeader />
@@ -20,3 +22,7 @@ const MainLayout = ({ children }: Props) => {
 };
 
 export default MainLayout;
+function useState(arg0: boolean): [any, any] {
+  throw new Error("Function not implemented.");
+}
+

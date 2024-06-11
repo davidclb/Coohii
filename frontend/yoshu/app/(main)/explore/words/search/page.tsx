@@ -1,5 +1,5 @@
 import { WordCard } from "@/app/components/word-card";
-import SearchBar from "../searchBar";
+import SearchBar from "../../searchBar";
 
 export const words = [
   {
@@ -58,15 +58,15 @@ export const words = [
   },
 ];
 
-async function getSentences() {
-  const res = await fetch(`http://localhost:3001/sentences`);
+async function getWords(query: string) {
+  const res = await fetch(`http://localhost:3001/words`);
   return res.json();
 }
 
-export default async function RadicalsPage() {
+export default async function WordsSearchPage({ query }: { query: string }) {
+  /* const userData = await getUser(); */
 
-  const wordList = await getSentences();
-
+  const wordList = await getWords(query);
   return (
     <>
       {/*  <Header title='Search a hanzi, a word or a sentence ' /> */}
