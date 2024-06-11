@@ -90,10 +90,10 @@ func (q *Queries) GetCharacterbyCategory(ctx context.Context, category string) (
 
 const GetCharacterbyID = `-- name: GetCharacterbyID :one
 SELECT id, carac_simpl, carac_trad, pinyin, meaning, category, carac_antonym, carac_similar, radical_list FROM character
-WHERE id = $1::int LIMIT 1
+WHERE id = $1::int32 LIMIT 1
 `
 
-func (q *Queries) GetCharacterbyID(ctx context.Context, id int32) (Character, error) {
+func (q *Queries) GetCharacterbyID(ctx context.Context, id int) (Character, error) {
 	row := q.db.QueryRow(ctx, GetCharacterbyID, id)
 	var i Character
 	err := row.Scan(

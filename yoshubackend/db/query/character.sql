@@ -1,6 +1,6 @@
 -- name: GetCharacterbyID :one
 SELECT * FROM character
-WHERE id = @id::int LIMIT 1;
+WHERE id = @id::int32 LIMIT 1;
 
 
 -- name: GetCharacterbyCategory :many

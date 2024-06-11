@@ -33,7 +33,10 @@ func (r *StudyRepo) ListCharactersByKeyset(ctx context.Context, Limit int32, ID 
 	if err != nil {
 		return nil, err
 	}
-	return &result, nil
+	
+	 for i := 1; i <= len(result); i++ {
+        f
+    }
 }
 
 func (r *StudyRepo) FilteredCharactersByKeyset(ctx context.Context, Limit int32, ID int32, Carac string ) (*[]postgres.Character, error) {

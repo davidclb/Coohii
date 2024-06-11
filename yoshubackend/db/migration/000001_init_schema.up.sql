@@ -26,7 +26,7 @@ CREATE TABLE "review" (
   "times_reviewed" integer NOT NULL,
   "mastery_level" integer NOT NULL,
   "consecutive_correct" integer NOT NULL,
-  "easiness_correct" float64 NOT NULL
+  "easiness_correct" integer NOT NULL
 );
 
 CREATE TABLE "character" (

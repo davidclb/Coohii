@@ -6,9 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/jackc/pgx/v5"
+	"github.com/jackc/pgx/v4/pgxpool"
 
-	//"github.com/jackc/pgx/v5/pgtype"
 	"yoshubackend/account/handlers"
 	handlerStudy "yoshubackend/study/handlers"
 
@@ -30,7 +29,7 @@ func main(){
 ////////////////////////////////////////// Data source//////////////////////////////////////////////////////////////////////////////////
 
 
-	log.Printf("Initializing data sources\n")
+ 	log.Printf("Initializing data sources\n")
 	// load env variables - we could pass these in,
 	// but this is sort of just a top-level (main package)
 	// helper function, so I'll just read them in here
@@ -39,25 +38,25 @@ func main(){
 	log.Printf("Connecting to Postgresql\n")
 
 	ctx := context.Background()
+	connStr := "postgresql://root:root@localhost:5432/yoshu?sslmode=disable"
 
-	conn, err := pgx.Connect(ctx, "host=localhost user=root password=root dbname=yoshu port=5432 sslmode=disable")
+	// Create a new connection pool
+	pool, err := pgxpool.Connect(ctx, connStr)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Unable to connect to database: %v\n", err)
 		os.Exit(1)
 	}
-	defer conn.Close(ctx)
+	defer pool.Close()
 
-	conn.Ping(ctx)
-	conn.Exec(ctx, ";")
+	// Ping the database to ensure a connection can be established
+	if err := pool.Ping(ctx); err != nil {
+		fmt.Fprintf(os.Stderr, "Unable to ping the database: %v\n", err)
+		os.Exit(1)
+	}
 	fmt.Println("Le ping est passé")
 
-
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Unable to connect to database: %v\n", err)
-		os.Exit(1)
-	}
-	queries := sqlc.New(conn)
-	
+	// Use the connection pool with the generated sqlc queries
+	queries := sqlc.New(pool)
 
 
 ////////////////////////////////////////// Dependency injection //////////////////////////////////////////////////////////////////////////////////

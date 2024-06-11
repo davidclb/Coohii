@@ -5,19 +5,20 @@
 package sqlc
 
 import (
-	"github.com/jackc/pgx/v5/pgtype"
+	"database/sql"
+	"time"
 )
 
 type Character struct {
-	ID           int32       `json:"id"`
-	CaracSimpl   string      `json:"carac_simpl"`
-	CaracTrad    string      `json:"carac_trad"`
-	Pinyin       string      `json:"pinyin"`
-	Meaning      string      `json:"meaning"`
-	Category     pgtype.Text `json:"category"`
-	CaracAntonym pgtype.Text `json:"carac_antonym"`
-	CaracSimilar pgtype.Text `json:"carac_similar"`
-	RadicalList  pgtype.Text `json:"radical_list"`
+	ID           int32          `json:"id"`
+	CaracSimpl   string         `json:"carac_simpl"`
+	CaracTrad    string         `json:"carac_trad"`
+	Pinyin       string         `json:"pinyin"`
+	Meaning      string         `json:"meaning"`
+	Category     sql.NullString `json:"category"`
+	CaracAntonym sql.NullString `json:"carac_antonym"`
+	CaracSimilar sql.NullString `json:"carac_similar"`
+	RadicalList  sql.NullString `json:"radical_list"`
 }
 
 type HanziList struct {
@@ -36,46 +37,46 @@ type Radical struct {
 }
 
 type Review struct {
-	ID                 int32              `json:"id"`
-	UserID             int32              `json:"user_id"`
-	LastReview         pgtype.Timestamp   `json:"last_review"`
-	CaracID            int32              `json:"carac_id"`
-	Interval           pgtype.Int4        `json:"interval"`
-	CreatedOn          pgtype.Timestamptz `json:"created_on"`
-	NextReview         pgtype.Timestamp   `json:"nextReview"`
-	TimesReviewed      int32              `json:"times_reviewed"`
-	MasteryLevel       int32              `json:"mastery_level"`
-	ConsecutiveCorrect int32              `json:"consecutive_correct"`
-	EasinessCorrect    interface{}        `json:"easiness_correct"`
+	ID                 int32         `json:"id"`
+	UserID             int32         `json:"user_id"`
+	LastReview         time.Time     `json:"last_review"`
+	CaracID            int32         `json:"carac_id"`
+	Interval           sql.NullInt32 `json:"interval"`
+	CreatedOn          time.Time     `json:"created_on"`
+	NextReview         time.Time     `json:"nextReview"`
+	TimesReviewed      int32         `json:"times_reviewed"`
+	MasteryLevel       int32         `json:"mastery_level"`
+	ConsecutiveCorrect int32         `json:"consecutive_correct"`
+	EasinessCorrect    int32         `json:"easiness_correct"`
 }
 
 type Session struct {
-	ID          pgtype.Int4        `json:"id"`
-	UserID      pgtype.Int4        `json:"user_id"`
-	CreatedOn   pgtype.Timestamptz `json:"created_on"`
-	CompletedOn pgtype.Timestamp   `json:"completed_on"`
-	Duration    pgtype.Int4        `json:"duration"`
-	Completed   pgtype.Bool        `json:"completed"`
+	ID          sql.NullInt32 `json:"id"`
+	UserID      sql.NullInt32 `json:"user_id"`
+	CreatedOn   sql.NullTime  `json:"created_on"`
+	CompletedOn time.Time     `json:"completed_on"`
+	Duration    sql.NullInt32 `json:"duration"`
+	Completed   sql.NullBool  `json:"completed"`
 }
 
 type User struct {
-	ID       int32              `json:"id"`
-	Username string             `json:"username"`
-	Email    string             `json:"email"`
-	Password string             `json:"password"`
-	JoinDate pgtype.Timestamptz `json:"join_date"`
+	ID       int       `json:"id"`
+	Username string    `json:"username"`
+	Email    string    `json:"email"`
+	Password string    `json:"password"`
+	JoinDate time.Time `json:"join_date"`
 }
 
 type Word struct {
-	ID             int32       `json:"id"`
-	CaracSimplList string      `json:"carac_simpl_list"`
-	CaracTradList  string      `json:"carac_trad_list"`
-	Pinyin         string      `json:"pinyin"`
-	Meaning        string      `json:"meaning"`
-	Category       pgtype.Text `json:"category"`
-	WordAntonym    pgtype.Text `json:"word_antonym"`
-	WordSimilar    pgtype.Text `json:"word_similar"`
-	SentencesList  pgtype.Text `json:"sentences_list"`
+	ID             int32          `json:"id"`
+	CaracSimplList string         `json:"carac_simpl_list"`
+	CaracTradList  string         `json:"carac_trad_list"`
+	Pinyin         string         `json:"pinyin"`
+	Meaning        string         `json:"meaning"`
+	Category       sql.NullString `json:"category"`
+	WordAntonym    sql.NullString `json:"word_antonym"`
+	WordSimilar    sql.NullString `json:"word_similar"`
+	SentencesList  sql.NullString `json:"sentences_list"`
 }
 
 type WordList struct {

@@ -1,10 +1,10 @@
 package handlers
 
 import (
+	"fmt"
 	"log"
 	"strconv"
-    apperrors "yoshubackend/errors"
-
+	apperrors "yoshubackend/errors"
 
 	"github.com/gofiber/fiber/v2"
 )
@@ -27,7 +27,10 @@ func (h *Handler) Hanzi(ctx *fiber.Ctx) error {
     filter := ctx.Query("filter", "")
 
 
+    fmt.Printf("coucou HAnzi")
     cards, err:= h.StudyService.GetHanzi(ctx,filter, int32(lastID), int32(limit) )
+     fmt.Print(cards)
+
     if err != nil {
         log.Printf("Unable get Hanzi")
         err := apperrors.NewNotFound("user", "uid")

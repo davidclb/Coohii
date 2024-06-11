@@ -25,7 +25,7 @@ type CreateUserParams struct {
 }
 
 func (q *Queries) CreateUser(ctx context.Context, arg CreateUserParams) (User, error) {
-	row := q.db.QueryRow(ctx, CreateUser, arg.Username, arg.Email, arg.Password);
+	row := q.db.QueryRow(ctx, CreateUser, arg.Username, arg.Email, arg.Password)
 	var i User
 	err := row.Scan(
 		&i.ID,
@@ -34,9 +34,7 @@ func (q *Queries) CreateUser(ctx context.Context, arg CreateUserParams) (User, e
 		&i.Password,
 		&i.JoinDate,
 	)
-
-	return i, err;
-
+	return i, err
 }
 
 const DeleteUser = `-- name: DeleteUser :exec
