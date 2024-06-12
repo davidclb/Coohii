@@ -89,7 +89,7 @@ func (r *UserRepo) GetUserbyUsername(username string) (*postgres.User, error) {
 }
 
 func (r *UserRepo) DeleteUser(User *postgres.User) error {
-	err := r.Querie.DeleteUser(context.Background(), User.ID)
+	err := r.Querie.DeleteUser(context.Background(), int32(User.ID))
 	if err != nil {
 		return err
 	}

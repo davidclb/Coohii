@@ -7,6 +7,7 @@ package sqlc
 
 import (
 	"context"
+	"log"
 )
 
 const FilteredCharactersByKeyset = `-- name: FilteredCharactersByKeyset :many
@@ -125,11 +126,16 @@ type ListCharactersByKeysetParams struct {
 
 func (q *Queries) ListCharactersByKeyset(ctx context.Context, arg ListCharactersByKeysetParams) ([]Character, error) {
 	rows, err := q.db.Query(ctx, ListCharactersByKeyset, arg.ID, arg.Pagesize)
+
+	log.Printf("query passée")
+
 	if err != nil {
 		return nil, err
 	}
 	defer rows.Close()
 	var items []Character
+	log.Printf("item initialisé")
+
 	for rows.Next() {
 		var i Character
 		if err := rows.Scan(
@@ -146,9 +152,13 @@ func (q *Queries) ListCharactersByKeyset(ctx context.Context, arg ListCharacters
 			return nil, err
 		}
 		items = append(items, i)
+		log.Printf("je vais voir les tiems")
+		log.Print(items)
 	}
 	if err := rows.Err(); err != nil {
 		return nil, err
 	}
+
+	log.Printf("ListCharacterbyKeyset: %v items retrived", len(items))
 	return items, nil
 }
