@@ -2,15 +2,19 @@ package repository_test
 
 import (
 	"context"
-	"math/rand"
+	"fmt"
+	"os"
 	"testing"
-	"time"
 	"yoshubackend/db/sqlc"          // Assurez-vous que le chemin est correct
 	"yoshubackend/study/repository" // Assurez-vous que le chemin est correct
 
-	"github.com/pashagolub/pgxmock"
+	"github.com/jackc/pgx/v4/pgxpool"
+	_ "github.com/lib/pq"
 	"github.com/stretchr/testify/assert"
 )
+
+
+
 
 type Character struct {
     Simplified    string
@@ -53,95 +57,100 @@ var characters = []Character{
     {"危", "危", "wēi", "dangerous", "adjective", "安", "None", "厄"},
     {"早", "早", "zǎo", "early", "adjective", "晚", "None", "日"},
     {"晚", "晚", "wǎn", "late", "adjective", "早", "None", "日"},
-    {"清", "清", "qīng", "clear", "adjective", "浊", "None", "氵"},
-    {"浊", "濁", "zhuó", "muddy", "adjective", "清", "None", "氵"},
-    {"轻", "輕", "qīng", "light", "adjective", "重", "None", "車"},
-    {"重", "重", "zhòng", "heavy", "adjective", "轻", "None", "里"},
-    {"强", "強", "qiáng", "strong", "adjective", "弱", "None", "弓"},
-    {"弱", "弱", "ruò", "weak", "adjective", "强", "None", "弓"},
-    {"高", "高", "gāo", "high", "adjective", "低", "None", "高"},
-    {"低", "低", "dī", "low", "adjective", "高", "None", "亻"},
-    {"明", "明", "míng", "bright", "adjective", "暗", "None", "日"},
-    {"暗", "暗", "àn", "dark", "adjective", "明", "None", "日"},
-    {"新", "新", "xīn", "new", "adjective", "旧", "None", "斤"},
-    {"旧", "舊", "jiù", "old", "adjective", "新", "None", "臼"},
-    {"安", "安", "ān", "safe", "adjective", "危", "None", "宀"},
-    {"危", "危", "wēi", "dangerous", "adjective", "安", "None", "厄"},
-    {"早", "早", "zǎo", "early", "adjective", "晚", "None", "日"},
-    {"晚", "晚", "wǎn", "late", "adjective", "早", "None", "日"},
 }
 
-func generateRandomRows(numRows int) *pgxmock.Rows {
-    rows := pgxmock.NewRows([]string{"id", "carac_simpl", "carac_trad", "pinyin", "meaning", "category", "carac_antonym", "carac_similar", "radical_list"})
-    rand.Seed(time.Now().UnixNano())
-    for i := 0; i < numRows; i++ {
-        char := characters[rand.Intn(len(characters))]
-        rows.AddRow(int32(i+1), char.Simplified, char.Traditional, char.Pinyin, char.Meaning, char.Category, char.Antonym, char.Similar, char.RadicalList)
+func setupDatabase() (*pgxpool.Pool, error) {
+    ctx := context.Background()
+	connStr := "postgresql://root:root@localhost:5432/yoshu?sslmode=disable"
+
+	// Create a new connection pool
+	pool, err := pgxpool.Connect(ctx, connStr)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Unable to connect to database: %v\n", err)
+		return nil, fmt.Errorf("failed to parse database URL: %v", err)
+	}
+	//defer pool.Close()
+    return pool, nil
+}
+
+func seedDatabase(db *pgxpool.Pool) error {
+     _, err := db.Exec(context.Background(), `DELETE FROM character`)
+    if err != nil {
+        return fmt.Errorf("failed to clean the database: %v", err)
     }
-    return rows
+
+    for i, char := range characters {
+        _, err := db.Exec(context.Background(), `INSERT INTO character (id, carac_simpl, carac_trad, pinyin, meaning, category, carac_antonym, carac_similar, radical_list) 
+                            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)`,
+            i+1, char.Simplified, char.Traditional, char.Pinyin, char.Meaning, char.Category, char.Antonym, char.Similar, char.RadicalList)
+        if err != nil {
+            return fmt.Errorf("failed to seed the database: %v", err)
+        }
+    }
+    return nil
 }
 
 func TestListCharactersByKeyset(t *testing.T) {
-    mockDB, err := pgxmock.NewPool()
-	if err != nil {
-		t.Fatalf("failed to create pgx mock: %v", err)
-	}
-	defer mockDB.Close()
+    db, err := setupDatabase()
+    if err != nil {
+        t.Fatalf("failed to setup the database: %v", err)
+    }
+    defer db.Close()
 
-    queries := sqlc.New(mockDB)
+    err = seedDatabase(db)
+    if err != nil {
+        t.Fatalf("failed to seed the database: %v", err)
+    }
+
+    queries := sqlc.New(db)
 
     repo := repository.NewStudyRepository(&repository.StudyRepo{
-		Querie : queries,
-	})
-
-    t.Run("Test Limit", func(t *testing.T) {
-        rows := pgxmock.NewRows([]string{"id", "carac_simpl", "carac_trad", "pinyin", "meaning", "category", "carac_antonym", "carac_similar", "radical_list"}).
-            AddRow(int32(30), "吃", "吃", "chi", "eat", "verb", "None", "None", "⼝")
-            
-
-        mockDB.ExpectQuery(`\QSELECT id, carac_simpl, carac_trad, pinyin, meaning, category, carac_antonym, carac_similar, radical_list
-            FROM character
-            WHERE (id > $1::int OR $1::int IS NULL)
-            ORDER BY id
-            LIMIT $2::int\E`).
-            WithArgs(int32(29),int32(10)).
-            WillReturnRows(rows)
-
-        params := sqlc.ListCharactersByKeysetParams{
-            ID:    29,
-            Pagesize: 10,
-        }
-
-        characters, err := repo.ListCharactersByKeyset(context.Background(), params.Pagesize, params.ID )
-        assert.NoError(t, err)
-        assert.Equal(t, "吃", (*characters)[0].CaracSimpl)
-        //assert.Len(t, characters, 1)
+        Querie: queries,
     })
 
-
-        t.Run("Test Nombre Retour Carac", func(t *testing.T) {
-        //rows := pgxmock.NewRows([]string{"id", "carac_simpl", "carac_trad", "pinyin", "meaning", "category", "carac_antonym", "carac_similar", "radical_list"}).
-          //  AddRow(int32(30), "吃", "吃", "chi", "eat", "verb", "None", "None", "⼝")
-        numRows := 30
-        rows := generateRandomRows(numRows) 
-
-        mockDB.ExpectQuery(`\QSELECT id, carac_simpl, carac_trad, pinyin, meaning, category, carac_antonym, carac_similar, radical_list
-            FROM character
-            WHERE (id > $1::int OR $1::int IS NULL)
-            ORDER BY id
-            LIMIT $2::int\E`).
-            WithArgs(int32(29),int32(10)).
-            WillReturnRows(rows)
-
+    t.Run("Test Limit", func(t *testing.T) {
         params := sqlc.ListCharactersByKeysetParams{
-            ID:    29,
-            Pagesize: 10,
+            ID:       0,
+            Pagesize: 15,
         }
 
-        characters, err := repo.ListCharactersByKeyset(context.Background(), params.Pagesize, params.ID )
+        characters, err := repo.ListCharactersByKeyset(context.Background(), params.Pagesize, params.ID)
         assert.NoError(t, err)
-        //assert.Equal(t, "吃", (*characters)[0].CaracSimpl)
-        assert.Len(t, characters, 10)
+        assert.Len(t, characters, 15) // Vérifiez que 10 caractères sont retournés
+        assert.Equal(t, "你", characters[0].CaracSimpl) // Vérifiez le premier caractère
     })
 }
 
+func TestFilteredCharactersByKeyset(t *testing.T) {
+    db, err := setupDatabase()
+    if err != nil {
+        t.Fatalf("failed to setup the database: %v", err)
+    }
+    defer db.Close()
+
+    err = seedDatabase(db)
+    if err != nil {
+        t.Fatalf("failed to seed the database: %v", err)
+    }
+
+    queries := sqlc.New(db)
+
+    repo := repository.NewStudyRepository(&repository.StudyRepo{
+        Querie: queries,
+    })
+
+    t.Run("Test Limit", func(t *testing.T) {
+        params := sqlc.FilteredCharactersByKeysetParams{
+            ID:       0,
+            Pagesize: 15,
+            Carac: "你",
+
+        }
+
+
+        characters, err := repo.FilteredCharactersByKeyset(context.Background(), params.Pagesize, params.ID, params.Carac)
+        assert.NoError(t, err)
+        assert.Len(t, characters, 1) // Vérifiez que 10 caractères sont retournés
+        assert.Equal(t, "你", characters[0].CaracSimpl) // Vérifiez le premier caractère
+    })
+}
