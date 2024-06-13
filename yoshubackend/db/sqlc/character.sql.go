@@ -7,13 +7,17 @@ package sqlc
 
 import (
 	"context"
-	"log"
 )
 
 const FilteredCharactersByKeyset = `-- name: FilteredCharactersByKeyset :many
 SELECT id, carac_simpl, carac_trad, pinyin, meaning, category, carac_antonym, carac_similar, radical_list
 FROM character
-WHERE carac_simpl ILIKE '%' || $1::text || '%' AND (id > $2::int OR $2::int IS NULL)
+WHERE 
+    (carac_simpl ILIKE '%' || $1::text || '%' OR 
+     carac_trad ILIKE '%' || $1::text || '%' OR 
+     meaning ILIKE '%' || $1::text || '%' OR 
+     pinyin ILIKE '%' || $1::text || '%') 
+    AND (id > $2::int OR $2::int IS NULL)
 ORDER BY id
 LIMIT $3::int
 `
@@ -126,16 +130,11 @@ type ListCharactersByKeysetParams struct {
 
 func (q *Queries) ListCharactersByKeyset(ctx context.Context, arg ListCharactersByKeysetParams) ([]Character, error) {
 	rows, err := q.db.Query(ctx, ListCharactersByKeyset, arg.ID, arg.Pagesize)
-
-	log.Printf("query passée")
-
 	if err != nil {
 		return nil, err
 	}
 	defer rows.Close()
 	var items []Character
-	log.Printf("item initialisé")
-
 	for rows.Next() {
 		var i Character
 		if err := rows.Scan(
@@ -152,13 +151,9 @@ func (q *Queries) ListCharactersByKeyset(ctx context.Context, arg ListCharacters
 			return nil, err
 		}
 		items = append(items, i)
-		log.Printf("je vais voir les tiems")
-		log.Print(items)
 	}
 	if err := rows.Err(); err != nil {
 		return nil, err
 	}
-
-	log.Printf("ListCharacterbyKeyset: %v items retrived", len(items))
 	return items, nil
 }
